@@ -1,0 +1,34 @@
+# Ignorar archivos de Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar entornos virtuales
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de datos grandes (en caso de que tengas alguno en data/)
+data/*.csv
+data/*.xlsx
+data/*.txt
+
+# Ignorar archivos de configuración de VSCode y otros editores
+.vscode/
+.idea/
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos de salida de Jupyter
+*.ipynb_out
