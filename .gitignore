@@ -19,8 +19,6 @@ Thumbs.db
 
 # Ignorar archivos de datos grandes (en caso de que tengas alguno en data/)
 data/*.csv
-data/*.xlsx
-data/*.txt
 
 # Ignorar archivos de configuración de VSCode y otros editores
 .vscode/

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Specie ID	Score
+1	Spectrogram 1	1	15.6	17.599000000000025	400.0	3100.0	DDPX	0.82
+2	Spectrogram 1	1	0.8	2.798999999999995	400.0	7000.0	TRGL	0.87
+3	Spectrogram 1	1	25.6	27.599	400.0	7000.0	TRGL	0.76
+4	Spectrogram 1	1	32.8	34.79899999999999	400.0	7000.0	TRGL	0.78
+5	Spectrogram 1	1	54.0	55.999	400.0	7000.0	TRGL	0.78

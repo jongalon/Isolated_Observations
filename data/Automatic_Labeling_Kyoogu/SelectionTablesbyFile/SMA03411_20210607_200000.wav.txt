@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Specie ID	Score
+1	Spectrogram 1	1	2.8	4.799000000000024	0.0	7200.0	DEND	0.89
+2	Spectrogram 1	1	11.6	13.599000000000023	0.0	7200.0	DEND	0.97
+3	Spectrogram 1	1	15.2	18.39899999999984	0.0	7200.0	DEND	1.0
+4	Spectrogram 1	1	18.0	20.398999999999887	0.0	7200.0	DEND	0.94
+5	Spectrogram 1	1	19.6	21.599000000000025	0.0	7200.0	DEND	0.78
+6	Spectrogram 1	1	24.8	27.199000000000115	0.0	7200.0	DEND	1.0

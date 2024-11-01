@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Specie ID	Score
+1	Spectrogram 1	1	0.0	1.999000000000024	400.0	3000.0	FUSC	0.78
+2	Spectrogram 1	1	0.8	3.1990000000000007	400.0	3000.0	FUSC	0.8
+3	Spectrogram 1	1	15.2	17.19899999999991	400.0	3000.0	FUSC	0.76
+4	Spectrogram 1	1	16.0	17.999000000000024	400.0	3000.0	FUSC	0.82
+5	Spectrogram 1	1	37.6	39.999	400.0	3000.0	FUSC	0.8
+6	Spectrogram 1	1	52.8	54.79900000000002	400.0	3000.0	FUSC	0.78

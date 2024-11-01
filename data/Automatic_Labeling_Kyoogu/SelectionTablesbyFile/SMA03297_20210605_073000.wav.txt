@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Specie ID	Score
+1	Spectrogram 1	1	14.0	16.798999999999978	200.0	1000.0	PTGN	0.98
+2	Spectrogram 1	1	22.8	25.59899999999998	200.0	1000.0	PTGN	0.99
+3	Spectrogram 1	1	24.4	26.399000000000022	200.0	1000.0	PTGN	0.95
+4	Spectrogram 1	1	32.0	34.79899999999998	200.0	1000.0	PTGN	0.98
+5	Spectrogram 1	1	54.0	56.79899999999998	200.0	1000.0	PTGN	0.99

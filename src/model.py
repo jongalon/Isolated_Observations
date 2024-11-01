@@ -4,7 +4,42 @@ import numpy as np
 from scipy.cluster.hierarchy import linkage, dendrogram
 from sklearn.metrics import confusion_matrix as sk_confusion_matrix, classification_report
 from sklearn.preprocessing import StandardScaler
+from scipy.stats import chi2
 
+
+def self_calculate_bartlett_sphericity(data):
+    """
+    Perform Bartlett's test of sphericity.
+    
+    Parameters:
+    data : dataframe
+        Data frame with scaled features for analysing the Bartlett's test
+
+    Returns:
+    chi_square_value : float
+        The chi-squared statistic.
+    p_value : float
+        The associated p-value for the test.
+    """
+
+    n_samples = data.shape[0]
+    corr_matrix = data.corr(method='spearman')
+    # Get the number of variables (p)
+    p = corr_matrix.shape[0]
+    
+    # Calculate the determinant of the correlation matrix
+    corr_det = np.linalg.det(corr_matrix)
+    
+    # Calculate the chi-square statistic using the formula
+    statistic = -np.log(corr_det) * (n_samples - 1 - (2 * p + 5) / 6)
+    
+    # Calculate degrees of freedom
+    degrees_of_freedom = p * (p - 1) / 2
+    
+    # Calculate the p-value from the chi-square distribution
+    p_value = chi2.sf(statistic, degrees_of_freedom)
+    
+    return statistic, p_value
 
 def scale_features (df_reduced):
 

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Specie ID	Score
+1	Spectrogram 1	1	5.6	10.799000000000012	150.0	1300.0	MMLS	1.0
+2	Spectrogram 1	1	20.8	23.199	150.0	1300.0	MMLS	0.95
+3	Spectrogram 1	1	27.2	29.599	150.0	1300.0	MMLS	0.97
+4	Spectrogram 1	1	36.0	38.399	150.0	1300.0	MMLS	0.79
+5	Spectrogram 1	1	54.0	57.999	150.0	1300.0	MMLS	1.0
