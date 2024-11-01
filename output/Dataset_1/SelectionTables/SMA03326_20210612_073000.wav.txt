@@ -1,0 +1,2 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Patagioenas_cayennensis	27.242666667	27.562666667	492.1875	843.75	0

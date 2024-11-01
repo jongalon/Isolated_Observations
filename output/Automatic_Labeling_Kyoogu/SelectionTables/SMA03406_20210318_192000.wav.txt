@@ -1,0 +1,5 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	FRAG	0.0	1.9990000000000236	0.0	3500	0
+2	Spectrogram 1	1	FRAG	10.0	11.999000000000024	10.0	3500	0
+3	Spectrogram 1	1	FRAG	27.2	29.19899999999991	27.2	3500	0
+4	Spectrogram 1	1	FRAG	49.6	51.599000000000025	49.6	3500	0

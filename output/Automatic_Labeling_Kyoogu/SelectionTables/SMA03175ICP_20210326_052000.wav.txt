@@ -1,0 +1,5 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	FUSC	11.6	13.59900000000025	11.6	3000	0
+2	Spectrogram 1	1	FUSC	33.6	35.59900000000025	33.6	3000	0
+3	Spectrogram 1	1	FUSC	46.8	49.598999999999975	46.8	3000	0
+4	Spectrogram 1	1	FUSC	53.6	55.99899999999989	53.6	3000	0

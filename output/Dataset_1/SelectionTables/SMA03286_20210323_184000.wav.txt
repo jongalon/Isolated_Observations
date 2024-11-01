@@ -1,0 +1,17 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Nyctidromus_albicollis	2.517333333	3.210666667	960.9375	2507.8125	0
+2	Spectrogram 1	1	Nyctidromus_albicollis	5.674666667	6.208	1031.25	2507.8125	0
+3	Spectrogram 1	1	Nyctidromus_albicollis	8.832	9.344	1007.8125	2460.9375	0
+4	Spectrogram 1	1	Nyctidromus_albicollis	12.096	12.64	984.375	2484.375	0
+5	Spectrogram 1	1	Nyctidromus_albicollis	15.616	16.085333333	1031.25	2460.9375	1
+6	Spectrogram 1	1	Nyctidromus_albicollis	18.368	18.912	1054.6875	2671.875	0
+7	Spectrogram 1	1	Nyctidromus_albicollis	21.696	22.272	984.375	2460.9375	0
+8	Spectrogram 1	1	Nyctidromus_albicollis	24.746666667	25.461333333	1031.25	2367.1875	0
+9	Spectrogram 1	1	Nyctidromus_albicollis	30.592	31.082666667	1007.8125	2484.375	0
+10	Spectrogram 1	1	Nyctidromus_albicollis	33.642666667	34.144	1007.8125	3960.9375	1
+11	Spectrogram 1	1	Nyctidromus_albicollis	36.746666667	37.44	984.375	2460.9375	0
+12	Spectrogram 1	1	Nyctidromus_albicollis	39.701333333	40.213333333	1007.8125	2414.0625	0
+13	Spectrogram 1	1	Nyctidromus_albicollis	42.848	43.349333333	1031.25	2390.625	0
+14	Spectrogram 1	1	Nyctidromus_albicollis	45.557333333	46.101333333	1007.8125	2390.625	0
+15	Spectrogram 1	1	Nyctidromus_albicollis	48.352	48.896	914.0625	2695.3125	1
+16	Spectrogram 1	1	Nyctidromus_albicollis	51.445333333	51.946666667	960.9375	2273.4375	0

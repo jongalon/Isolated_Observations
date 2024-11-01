@@ -1,0 +1,11 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Nyctidromus_albicollis	1.962666667	2.656	890.625	2882.8125	0
+2	Spectrogram 1	1	Dendroplex_picus	6.368	9.770666667	1617.1875	2953.125	1
+3	Spectrogram 1	1	Crypturellus_soui	18.538666667	22.144	1664.0625	2812.5	1
+4	Spectrogram 1	1	Crypturellus_soui	31.349333333	32.682666667	1710.9375	2296.875	0
+5	Spectrogram 1	1	Alouatta_sp	32.32	33.546666667	375.0	984.375	0
+6	Spectrogram 1	1	Dendroplex_picus	34.261333333	37.226666667	1453.125	2929.6875	0
+7	Spectrogram 1	1	Crypturellus_soui	40.853333333	41.962666667	1828.125	2601.5625	0
+8	Spectrogram 1	1	Crypturellus_soui	42.08	43.456	1757.8125	2296.875	0
+9	Spectrogram 1	1	Dendroplex_picus	49.653333333	52.597333333	1898.4375	2835.9375	0
+10	Spectrogram 1	1	Crypturellus_soui	53.546666667	54.464	1851.5625	2273.4375	0

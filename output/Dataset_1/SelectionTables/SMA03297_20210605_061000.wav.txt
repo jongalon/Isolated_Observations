@@ -1,0 +1,5 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Dendroplex_picus	14.954666667	15.594666667	1218.75	1968.75	0
+2	Spectrogram 1	1	Dendroplex_picus	33.802666667	34.442666667	1148.4375	1968.75	0
+3	Spectrogram 1	1	Dendroplex_picus	40.448	41.077333333	1218.75	2015.625	0
+4	Spectrogram 1	1	Dendroplex_picus	47.733333333	48.405333333	1195.3125	2484.375	0

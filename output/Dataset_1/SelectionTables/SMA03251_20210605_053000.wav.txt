@@ -1,0 +1,11 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Troglodytes_aedon	1.237333333	2.250666667	4007.8125	6445.3125	0
+2	Spectrogram 1	1	Troglodytes_aedon	6.453333333	8.032	2460.9375	6468.75	0
+3	Spectrogram 1	1	Troglodytes_aedon	14.581333333	16.074666667	2507.8125	6468.75	0
+4	Spectrogram 1	1	Troglodytes_aedon	19.594666667	22.229333333	867.1875	6398.4375	1
+5	Spectrogram 1	1	Troglodytes_aedon	26.464	28.298666667	609.375	6515.625	1
+6	Spectrogram 1	1	Troglodytes_aedon	32.085333333	34.506666667	632.8125	6445.3125	0
+7	Spectrogram 1	1	Troglodytes_aedon	37.728	39.210666667	703.125	6328.125	1
+8	Spectrogram 1	1	Troglodytes_aedon	42.698666667	44.181333333	2414.0625	6304.6875	0
+9	Spectrogram 1	1	Troglodytes_aedon	47.530666667	49.066666667	2367.1875	6281.25	0
+10	Spectrogram 1	1	Troglodytes_aedon	54.293333333	55.818666667	2390.625	6351.5625	0

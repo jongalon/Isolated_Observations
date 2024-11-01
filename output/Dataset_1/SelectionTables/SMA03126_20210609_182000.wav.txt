@@ -1,0 +1,21 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Boana_platanera	10.069333333	10.261333333	1453.125	1968.75	1
+2	Spectrogram 1	1	Leptodactylus_fuscus	43.701333333	44.117333333	2085.9375	2648.4375	1
+3	Spectrogram 1	1	Leptodactylus_fuscus	44.512	44.842666667	2132.8125	2671.875	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	45.376	45.504	2109.375	2953.125	0
+5	Spectrogram 1	1	Dendroplex_picus	45.973333333	48.277333333	609.375	3070.3125	1
+6	Spectrogram 1	1	Leptodactylus_fuscus	52.021333333	52.138666667	2320.3125	3046.875	0
+7	Spectrogram 1	1	Leptodactylus_fuscus	52.512	52.714666667	1875.0	2531.25	0
+8	Spectrogram 1	1	Leptodactylus_fuscus	52.938666667	53.12	1640.625	2601.5625	0
+9	Spectrogram 1	1	Leptodactylus_fuscus	53.429333333	53.728	1593.75	2671.875	0
+10	Spectrogram 1	1	Leptodactylus_fuscus	54.154666667	54.474666667	1664.0625	2625.0	0
+11	Spectrogram 1	1	Leptodactylus_fuscus	54.645333333	54.88	1593.75	2531.25	0
+12	Spectrogram 1	1	Leptodactylus_fuscus	56.224	56.373333333	2062.5	2695.3125	1
+13	Spectrogram 1	1	Leptodactylus_fuscus	56.48	56.757333333	2015.625	2671.875	0
+14	Spectrogram 1	1	Leptodactylus_fuscus	56.874666667	57.066666667	1875.0	2695.3125	0
+15	Spectrogram 1	1	Leptodactylus_fuscus	57.365333333	57.493333333	2015.625	2648.4375	0
+16	Spectrogram 1	1	Leptodactylus_fuscus	57.76	57.973333333	1570.3125	2671.875	0
+17	Spectrogram 1	1	Leptodactylus_fuscus	58.378666667	58.506666667	1945.3125	2812.5	0
+18	Spectrogram 1	1	Leptodactylus_fuscus	58.805333333	58.997333333	1992.1875	2835.9375	0
+19	Spectrogram 1	1	Leptodactylus_fuscus	59.264	59.584	1757.8125	2718.75	0
+20	Spectrogram 1	1	Leptodactylus_fuscus	59.669333333	59.989333333	1617.1875	2789.0625	1

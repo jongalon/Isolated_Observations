@@ -1,0 +1,23 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Dendropsophus_microcephalus	1.045333333	1.386666667	2273.4375	3539.0625	1
+2	Spectrogram 1	1	Dendropsophus_microcephalus	2.112	2.293333333	2507.8125	3070.3125	0
+3	Spectrogram 1	1	Dendropsophus_microcephalus	2.933333333	3.274666667	2507.8125	3656.25	0
+4	Spectrogram 1	1	Dendropsophus_microcephalus	4.490666667	5.024	2531.25	3656.25	0
+5	Spectrogram 1	1	Dendropsophus_microcephalus	6.346666667	6.784	2367.1875	3679.6875	0
+6	Spectrogram 1	1	Dendropsophus_microcephalus	8.896	9.344	2507.8125	3726.5625	0
+7	Spectrogram 1	1	Dendropsophus_microcephalus	12.138666667	12.32	2437.5	3187.5	0
+8	Spectrogram 1	1	Dendropsophus_microcephalus	13.258666667	13.877333333	2343.75	3257.8125	0
+9	Spectrogram 1	1	Dendropsophus_microcephalus	21.738666667	22.186666667	2484.375	3328.125	0
+10	Spectrogram 1	1	Dendropsophus_microcephalus	24.704	25.258666667	2437.5	3375.0	0
+11	Spectrogram 1	1	Dendropsophus_microcephalus	29.504	29.674666667	2531.25	3000.0	0
+12	Spectrogram 1	1	Dendropsophus_microcephalus	32.309333333	32.501333333	2390.625	3281.25	0
+13	Spectrogram 1	1	Dendropsophus_microcephalus	35.584	35.744	2437.5	3351.5625	0
+14	Spectrogram 1	1	Dendropsophus_microcephalus	37.322666667	37.514666667	2507.8125	3468.75	0
+15	Spectrogram 1	1	Dendropsophus_microcephalus	39.722666667	40.096	2484.375	3796.875	0
+16	Spectrogram 1	1	Dendropsophus_microcephalus	40.981333333	41.173333333	2507.8125	3562.5	0
+17	Spectrogram 1	1	Dendropsophus_microcephalus	43.562666667	43.765333333	2273.4375	3375.0	0
+18	Spectrogram 1	1	Dendropsophus_microcephalus	45.408	45.802666667	2296.875	3539.0625	0
+19	Spectrogram 1	1	Dendropsophus_microcephalus	52.352	52.501333333	2484.375	3023.4375	1
+20	Spectrogram 1	1	Dendropsophus_microcephalus	55.68	55.861333333	2460.9375	3046.875	0
+21	Spectrogram 1	1	Dendropsophus_microcephalus	57.184	57.365333333	2343.75	3070.3125	0
+22	Spectrogram 1	1	Dendropsophus_microcephalus	58.4	58.581333333	2414.0625	3468.75	0

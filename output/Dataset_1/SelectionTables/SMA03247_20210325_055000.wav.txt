@@ -1,0 +1,22 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Dendropsophus_microcephalus	0.885333333	1.002666667	4218.75	5929.6875	0
+2	Spectrogram 1	1	Dendropsophus_microcephalus	3.872	4.010666667	4242.1875	6117.1875	0
+3	Spectrogram 1	1	Alouatta_sp	5.077333333	6.933333333	375.0	1171.875	0
+4	Spectrogram 1	1	Dendropsophus_microcephalus	5.856	6.176	3867.1875	6210.9375	0
+5	Spectrogram 1	1	Dendropsophus_microcephalus	7.978666667	8.266666667	3843.75	6164.0625	0
+6	Spectrogram 1	1	Dendropsophus_microcephalus	10.069333333	11.477333333	3609.375	6398.4375	0
+7	Spectrogram 1	1	Alouatta_sp	13.568	13.962666667	398.4375	1007.8125	1
+8	Spectrogram 1	1	Alouatta_sp	14.613333333	16.117333333	375.0	1078.125	1
+9	Spectrogram 1	1	Dendropsophus_microcephalus	22.485333333	22.709333333	2320.3125	2906.25	1
+10	Spectrogram 1	1	Dendropsophus_microcephalus	25.536	25.653333333	3820.3125	5414.0625	0
+11	Spectrogram 1	1	Dendropsophus_microcephalus	25.738666667	26.474666667	3703.125	6304.6875	0
+12	Spectrogram 1	1	Dendropsophus_microcephalus	27.050666667	27.157333333	4101.5625	5250.0	0
+13	Spectrogram 1	1	Dendropsophus_microcephalus	28.885333333	28.981333333	4453.125	5578.125	0
+14	Spectrogram 1	1	Dendropsophus_microcephalus	29.077333333	29.44	3750.0	6093.75	0
+15	Spectrogram 1	1	Alouatta_sp	29.397333333	30.56	398.4375	1125.0	0
+16	Spectrogram 1	1	Dendropsophus_microcephalus	30.506666667	31.136	3703.125	6023.4375	0
+17	Spectrogram 1	1	Dendropsophus_microcephalus	32.704	33.418666667	3656.25	6117.1875	0
+18	Spectrogram 1	1	Dendropsophus_microcephalus	34.08	34.24	3726.5625	6187.5	0
+19	Spectrogram 1	1	Dendropsophus_microcephalus	35.946666667	36.170666667	3328.125	6328.125	0
+20	Spectrogram 1	1	Alouatta_sp	38.208	40.384	375.0	1195.3125	0
+21	Spectrogram 1	1	Alouatta_sp	52.693333333	54.528	375.0	1101.5625	0

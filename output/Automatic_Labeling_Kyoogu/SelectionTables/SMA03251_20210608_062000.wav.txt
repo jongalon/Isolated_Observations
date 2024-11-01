@@ -1,0 +1,5 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	TRGL	4.8	6.799000000000009	4.8	7000	1
+2	Spectrogram 1	1	TRGL	51.2	53.19900000000003	51.2	7000	0
+3	Spectrogram 1	1	TRGL	52.0	53.998999999999995	52.0	7000	1
+4	Spectrogram 1	1	TRGL	53.2	55.19900000000003	53.2	7000	1

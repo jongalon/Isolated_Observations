@@ -1,0 +1,8 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	PTGN	0.0	5.5989999999999895	0.0	1000	1
+2	Spectrogram 1	1	PTGN	11.2	13.999000000000006	11.2	1000	0
+3	Spectrogram 1	1	PTGN	28.0	30.399	28.0	1000	0
+4	Spectrogram 1	1	PTGN	49.2	51.19900000000003	49.2	1000	0
+5	Spectrogram 1	1	PTGN	50.0	51.998999999999995	50.0	1000	0
+6	Spectrogram 1	1	PTGN	55.6	57.599	55.6	1000	0
+7	Spectrogram 1	1	PTGN	57.6	59.999	57.6	1000	0

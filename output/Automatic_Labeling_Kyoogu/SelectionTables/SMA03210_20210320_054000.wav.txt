@@ -1,0 +1,8 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	DDPX	7.2	9.599	7.2	3100	0
+2	Spectrogram 1	1	DDPX	18.8	20.798999999999968	18.8	3100	1
+3	Spectrogram 1	1	DDPX	19.6	21.999000000000002	19.6	3100	1
+4	Spectrogram 1	1	DDPX	34.8	37.199	34.8	3100	0
+5	Spectrogram 1	1	DDPX	42.0	44.399	42.0	3100	0
+6	Spectrogram 1	1	DDPX	50.0	52.399	50.0	3100	0
+7	Spectrogram 1	1	DDPX	51.2	53.19900000000003	51.2	3100	1

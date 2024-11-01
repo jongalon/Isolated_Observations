@@ -1,0 +1,6 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	DDPX	15.6	17.599000000000025	15.6	3100	1
+2	Spectrogram 1	1	TRGL	0.8	2.798999999999995	0.8	7000	0
+3	Spectrogram 1	1	TRGL	25.6	27.598999999999997	25.6	7000	0
+4	Spectrogram 1	1	TRGL	32.8	34.79899999999999	32.8	7000	0
+5	Spectrogram 1	1	TRGL	54.0	55.998999999999995	54.0	7000	1

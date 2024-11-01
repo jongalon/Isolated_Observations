@@ -1,0 +1,21 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Patagioenas_cayennensis	10.378666667	11.349333333	328.125	726.5625	0
+2	Spectrogram 1	1	Patagioenas_cayennensis	11.669333333	12.416	351.5625	796.875	0
+3	Spectrogram 1	1	Patagioenas_cayennensis	12.512	12.8	328.125	703.125	0
+4	Spectrogram 1	1	Patagioenas_cayennensis	13.930666667	14.272	328.125	679.6875	0
+5	Spectrogram 1	1	Patagioenas_cayennensis	15.072	15.808	328.125	726.5625	0
+6	Spectrogram 1	1	Patagioenas_cayennensis	16.181333333	17.365333333	328.125	773.4375	0
+7	Spectrogram 1	1	Patagioenas_cayennensis	17.781333333	18.197333333	375.0	773.4375	0
+8	Spectrogram 1	1	Patagioenas_cayennensis	18.634666667	18.976	304.6875	679.6875	0
+9	Spectrogram 1	1	Patagioenas_cayennensis	31.861333333	32.512	328.125	679.6875	0
+10	Spectrogram 1	1	Patagioenas_cayennensis	32.586666667	32.8	375.0	703.125	0
+11	Spectrogram 1	1	Patagioenas_cayennensis	33.696	34.218666667	328.125	703.125	0
+12	Spectrogram 1	1	Patagioenas_cayennensis	34.549333333	34.912	398.4375	796.875	1
+13	Spectrogram 1	1	Patagioenas_cayennensis	35.04	36.405333333	328.125	773.4375	1
+14	Spectrogram 1	1	Patagioenas_cayennensis	36.522666667	36.725333333	351.5625	656.25	0
+15	Spectrogram 1	1	Patagioenas_cayennensis	36.842666667	37.162666667	304.6875	679.6875	0
+16	Spectrogram 1	1	Patagioenas_cayennensis	37.536	37.706666667	445.3125	820.3125	0
+17	Spectrogram 1	1	Patagioenas_cayennensis	38.314666667	38.666666667	328.125	679.6875	0
+18	Spectrogram 1	1	Patagioenas_cayennensis	39.146666667	39.328	421.875	796.875	0
+19	Spectrogram 1	1	Patagioenas_cayennensis	39.658666667	39.861333333	351.5625	656.25	0
+20	Spectrogram 1	1	Patagioenas_cayennensis	39.957333333	40.341333333	304.6875	679.6875	0

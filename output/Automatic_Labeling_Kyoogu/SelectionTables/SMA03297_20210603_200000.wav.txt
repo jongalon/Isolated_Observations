@@ -1,0 +1,4 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	DEND	30.8	32.79900000000002	30.8	7200	0
+2	Spectrogram 1	1	DEND	31.6	33.999	31.6	7200	0
+3	Spectrogram 1	1	DEND	32.8	35.59900000000009	32.8	7200	0

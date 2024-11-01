@@ -1,0 +1,7 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	Crypturellus_soui	4.245333333	5.514666667	1476.5625	2953.125	0
+2	Spectrogram 1	1	Crypturellus_soui	11.317333333	12.864	1429.6875	3093.75	0
+3	Spectrogram 1	1	Crypturellus_soui	23.712	25.226666667	1570.3125	2367.1875	0
+4	Spectrogram 1	1	Crypturellus_soui	33.194666667	34.506666667	1359.375	2882.8125	0
+5	Spectrogram 1	1	Crypturellus_soui	43.562666667	45.290666667	820.3125	2601.5625	0
+6	Spectrogram 1	1	Crypturellus_soui	49.653333333	51.029333333	1664.0625	2390.625	1

@@ -1,0 +1,7 @@
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
+1	Spectrogram 1	1	MMLS	1.2	3.199000000000024	1.2	1300	1
+2	Spectrogram 1	1	MMLS	45.2	47.599000000000004	45.2	1300	0
+3	Spectrogram 1	1	MMLS	54.8	57.99899999999998	54.8	1300	0
+4	Spectrogram 1	1	PTGN	25.6	27.999000000000116	25.6	1000	0
+5	Spectrogram 1	1	PTGN	34.4	36.398999999999795	34.4	1000	0
+6	Spectrogram 1	1	PTGN	54.4	56.398999999999795	54.4	1000	0
