@@ -274,3 +274,133 @@ def plot_confusion_matrix(cm, title='Confusion Matrix for Lonely Observations', 
     for text in disp.text_.ravel():
         text.set_fontsize(12)  
     plt.show()
+
+
+    import pandas as pd
+import matplotlib.pyplot as plt
+
+def plot_outliers(df_reduced, lonely_observations_df):
+    # Merge the distance column
+    # Create a copy of the full dataset
+    df_reduced = df_reduced.copy()
+
+    # Initialize a new column 'Distance' and set it to 0 for all observations
+    df_reduced['Distance'] = 0
+
+    # Merge based on the index of data_full and the 'Lonely Index' from lonely_observations_df
+    df_reduced = df_reduced.merge(lonely_observations_df[['Lonely Index', 'Distance']], 
+                                left_on=df_reduced.index, right_on='Lonely Index', 
+                                how='left', suffixes=('', '_lonely'))
+
+    # If the 'Distance_lonely' column exists after the merge, use it to update the original 'Distance' column
+    if 'Distance_lonely' in df_reduced.columns:
+        df_reduced['Distance'] = df_reduced['Distance_lonely']
+        df_reduced.drop(columns=['Distance_lonely'], inplace=True)
+
+    # Ensure 'Distance' is numeric and fill missing values with 0
+    df_reduced['Distance'] = pd.to_numeric(df_reduced['Distance'], errors='coerce').fillna(0)
+
+
+    #df_reduced_withdistance = merge_distance_column(df_reduced, lonely_observations_df)
+    
+    # Calculate quartiles and interquartile range (IQR)
+    Q1 = df_reduced['Distance'].quantile(0.25)
+    Q3 = df_reduced['Distance'].quantile(0.75)
+    IQR = Q3 - Q1
+
+    # Define the upper bound for outliers
+    upper_bound = Q3 + 1.5 * IQR
+
+    # Identify the outliers
+    outliers = df_reduced[df_reduced['Distance'] > upper_bound]
+    
+    # Select the top 3 outliers with the highest distance
+    top_outliers = outliers.nlargest(3, 'Distance')
+
+    # Outlier properties in the boxplot
+    flierprops = dict(marker='o', markerfacecolor='#975ab6', markersize=8, linestyle='none')
+
+    # Create the boxplot
+    plt.figure(figsize=(6, 6))
+    plt.boxplot(df_reduced['Distance'], vert=True, flierprops=flierprops, positions=[1])
+    plt.title('Top 3 outliers')
+    plt.gca().set_xticks([1])
+    plt.gca().set_xticklabels(['Observations'])
+    plt.ylabel('Distance')
+
+    # Add labels to the top 3 outliers with the highest distance
+    for _, row in top_outliers.iterrows():
+        plt.text(1.02, row['Distance'], f" {row['Lonely Index']}:{row['Specie_ID']}", 
+                 verticalalignment='center', fontsize=9, color='red')
+
+    plt.show()
+
+    return outliers
+
+
+import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
+
+import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
+import pandas as pd
+
+import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
+import pandas as pd
+
+def plot_isolated_observations_by_species(outliers, top_n=2):
+    """
+    Plots isolated observations by species, highlighting the top N isolated observations.
+
+    Parameters:
+    - outliers (DataFrame): DataFrame containing outliers with columns 'Specie_ID', 'Distance', and 'Lonely Index'.
+    - top_n (int): Number of top isolated observations to label per species. Default is 2.
+    """
+    # Ensure 'Distance' column is numeric
+    outliers['Distance'] = pd.to_numeric(outliers['Distance'], errors='coerce')
+    
+    # Calculate average distance per species and sort species by this average
+    species_order = outliers.groupby('Specie_ID')['Distance'].mean().sort_values(ascending=False).index
+
+    plt.figure(figsize=(12, 8))
+
+    # Plot each outlier as a point in the sorted species order
+    for specie_id in species_order:
+        specie_outliers = outliers[outliers['Specie_ID'] == specie_id]
+        
+        # Plot all outliers for the species
+        plt.scatter([specie_id] * len(specie_outliers), specie_outliers['Distance'], 
+                    alpha=0.55, edgecolor='black', s=75)
+        
+        # Get the top N outliers for this species based on Distance
+        top_outliers = specie_outliers.nlargest(top_n, 'Distance')
+        
+        # Add labels for the top N outliers with alternate offsets to avoid overlap
+        for j, (_, row) in enumerate(top_outliers.iterrows()):
+            # Alternate y_offset for each point to avoid overlap
+            y_offset = 4 if j % 2 == 0 else -4  # Adjust the offset as needed
+            plt.annotate(f"{row['Lonely Index']}", 
+                         (specie_id, row['Distance']), 
+                         textcoords="offset points", xytext=(16, y_offset), ha='center',
+                         fontsize=10, color='red')
+
+    # Custom legend elements
+    legend_elements = [
+        Line2D([0], [0], marker='o', color='w', label='Isolated observation (outliers)', 
+               markerfacecolor='black', markersize=8, alpha=0.55),
+        Line2D([0], [0], marker='*', color='w', label=f'Top {top_n} species outlier indices', 
+               markerfacecolor='red', markersize=10)
+    ]
+
+    # Add the custom legend inside the plot (upper right)
+    plt.legend(handles=legend_elements, loc='upper right', fontsize=14)
+
+    plt.title('Isolated Observations by Species', fontsize=16)
+    plt.xlabel('Species', fontsize=14)
+    plt.ylabel('Distance', fontsize=14)
+    plt.xticks(rotation=90, fontstyle='italic', fontsize=12)
+    plt.show()
+
+# Example usage
+# plot_isolated_observations_by_species(outliers)
