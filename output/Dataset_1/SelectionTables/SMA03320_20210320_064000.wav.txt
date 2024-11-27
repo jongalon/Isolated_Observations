@@ -1,2 +1,2 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Alouatta_sp	1.013333333	2.805333333	773.4375	1453.125	1
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Alouatta_sp	1.013333333	2.805333333	773.4375	1453.125	9141	0

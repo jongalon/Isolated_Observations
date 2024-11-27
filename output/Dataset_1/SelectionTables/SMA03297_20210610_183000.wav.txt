@@ -1,2 +1,2 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Nyctidromus_albicollis	35.125333333	35.392	960.9375	1687.5	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Nyctidromus_albicollis	35.125333333	35.392	960.9375	1687.5	10436	1

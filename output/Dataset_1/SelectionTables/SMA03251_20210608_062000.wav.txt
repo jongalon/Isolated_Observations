@@ -1,4 +1,4 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Pitangus_sulphuratus	1.109333333	4.853333333	726.5625	6492.1875	1
-2	Spectrogram 1	1	Troglodytes_aedon	40.896	41.568	1781.25	4570.3125	0
-3	Spectrogram 1	1	Troglodytes_aedon	45.962666667	47.637333333	1664.0625	4546.875	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Pitangus_sulphuratus	1.109333333	4.853333333	726.5625	6492.1875	2192	1
+2	Spectrogram 1	1	Troglodytes_aedon	40.896	41.568	1781.25	4570.3125	2307	1
+3	Spectrogram 1	1	Troglodytes_aedon	45.962666667	47.637333333	1664.0625	4546.875	2318	1

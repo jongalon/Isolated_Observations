@@ -1,18 +1,18 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DDPX	2.0	3.9990000000000236	2.0	3100	0
-2	Spectrogram 1	1	DDPX	2.8	5.199000000000001	2.8	3100	1
-3	Spectrogram 1	1	DDPX	8.0	9.999000000000024	8.0	3100	0
-4	Spectrogram 1	1	DDPX	27.2	29.199000000000023	27.2	3100	0
-5	Spectrogram 1	1	DDPX	29.6	31.59899999999997	29.6	3100	0
-6	Spectrogram 1	1	DDPX	30.4	33.59900000000007	30.4	3100	1
-7	Spectrogram 1	1	DDPX	33.2	35.19899999999991	33.2	3100	0
-8	Spectrogram 1	1	DDPX	34.0	35.999000000000024	34.0	3100	0
-9	Spectrogram 1	1	DDPX	34.8	36.79900000000002	34.8	3100	0
-10	Spectrogram 1	1	DDPX	43.2	45.19899999999991	43.2	3100	0
-11	Spectrogram 1	1	DDPX	46.0	48.399	46.0	3100	1
-12	Spectrogram 1	1	DDPX	47.2	50.39899999999996	47.2	3100	1
-13	Spectrogram 1	1	DDPX	49.2	51.19899999999991	49.2	3100	0
-14	Spectrogram 1	1	DDPX	50.0	51.999000000000024	50.0	3100	0
-15	Spectrogram 1	1	DDPX	51.2	53.19899999999991	51.2	3100	0
-16	Spectrogram 1	1	DDPX	54.8	56.79900000000002	54.8	3100	0
-17	Spectrogram 1	1	DEND	50.8	53.59900000000009	50.8	7200	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Dendroplex_picus	29.6	31.59899999999997	29.6	3100	407	0
+2	Spectrogram 1	1	Dendropsophus_microcephalus	50.8	53.59900000000009	50.8	7200	462	0
+3	Spectrogram 1	1	Dendroplex_picus	27.2	29.199000000000023	27.2	3100	406	0
+4	Spectrogram 1	1	Dendroplex_picus	8.0	9.999000000000024	8.0	3100	405	0
+5	Spectrogram 1	1	Dendroplex_picus	2.8	5.199000000000001	2.8	3100	404	0
+6	Spectrogram 1	1	Dendroplex_picus	2.0	3.9990000000000236	2.0	3100	403	0
+7	Spectrogram 1	1	Dendroplex_picus	34.0	35.999000000000024	34.0	3100	410	0
+8	Spectrogram 1	1	Dendroplex_picus	34.8	36.79900000000002	34.8	3100	411	0
+9	Spectrogram 1	1	Dendroplex_picus	43.2	45.19899999999991	43.2	3100	412	0
+10	Spectrogram 1	1	Dendroplex_picus	46.0	48.399	46.0	3100	413	0
+11	Spectrogram 1	1	Dendroplex_picus	47.2	50.39899999999996	47.2	3100	414	0
+12	Spectrogram 1	1	Dendroplex_picus	49.2	51.19899999999991	49.2	3100	415	0
+13	Spectrogram 1	1	Dendroplex_picus	50.0	51.999000000000024	50.0	3100	416	0
+14	Spectrogram 1	1	Dendroplex_picus	51.2	53.19899999999991	51.2	3100	417	0
+15	Spectrogram 1	1	Dendroplex_picus	54.8	56.79900000000002	54.8	3100	418	0
+16	Spectrogram 1	1	Dendroplex_picus	30.4	33.59900000000007	30.4	3100	408	0
+17	Spectrogram 1	1	Dendroplex_picus	33.2	35.19899999999991	33.2	3100	409	0

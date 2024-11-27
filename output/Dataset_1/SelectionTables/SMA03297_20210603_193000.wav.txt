@@ -1,53 +1,53 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Leptodactylus_fragilis	2.112	2.304	796.875	1359.375	1
-2	Spectrogram 1	1	Leptodactylus_fragilis	3.029333333	3.232	796.875	1382.8125	0
-3	Spectrogram 1	1	Dendropsophus_microcephalus	3.744	4.256	2531.25	3304.6875	0
-4	Spectrogram 1	1	Leptodactylus_fragilis	3.765333333	3.957333333	820.3125	1382.8125	0
-5	Spectrogram 1	1	Leptodactylus_fragilis	4.437333333	4.650666667	820.3125	1382.8125	0
-6	Spectrogram 1	1	Leptodactylus_fragilis	5.397333333	5.770666667	398.4375	1382.8125	1
-7	Spectrogram 1	1	Dendropsophus_microcephalus	5.813333333	5.984	2531.25	3164.0625	0
-8	Spectrogram 1	1	Leptodactylus_fragilis	6.592	6.784	820.3125	1312.5	1
-9	Spectrogram 1	1	Dendropsophus_microcephalus	7.04	7.178666667	2507.8125	3328.125	0
-10	Spectrogram 1	1	Leptodactylus_fragilis	7.317333333	7.509333333	820.3125	1289.0625	0
-11	Spectrogram 1	1	Leptodactylus_fragilis	8.021333333	8.224	796.875	1382.8125	0
-12	Spectrogram 1	1	Leptodactylus_fragilis	8.725333333	8.938666667	796.875	1335.9375	0
-13	Spectrogram 1	1	Dendropsophus_microcephalus	9.141333333	9.301333333	2531.25	3164.0625	0
-14	Spectrogram 1	1	Leptodactylus_fragilis	9.514666667	9.717333333	820.3125	1382.8125	0
-15	Spectrogram 1	1	Leptodactylus_fragilis	10.357333333	10.549333333	820.3125	1382.8125	0
-16	Spectrogram 1	1	Dendropsophus_microcephalus	10.421333333	10.581333333	2531.25	3210.9375	0
-17	Spectrogram 1	1	Leptodactylus_fragilis	12.373333333	12.565333333	820.3125	1335.9375	0
-18	Spectrogram 1	1	Leptodactylus_fragilis	13.162666667	13.354666667	796.875	1312.5	0
-19	Spectrogram 1	1	Dendropsophus_microcephalus	14.08	14.250666667	2460.9375	3117.1875	0
-20	Spectrogram 1	1	Dendropsophus_microcephalus	16.778666667	16.938666667	2414.0625	3375.0	0
-21	Spectrogram 1	1	Dendropsophus_microcephalus	18.144	18.442666667	2460.9375	3375.0	0
-22	Spectrogram 1	1	Dendropsophus_microcephalus	20.832	20.992	2531.25	3234.375	0
-23	Spectrogram 1	1	Dendropsophus_microcephalus	22.144	22.549333333	2507.8125	3281.25	0
-24	Spectrogram 1	1	Dendropsophus_microcephalus	28.512	28.650666667	2484.375	3281.25	0
-25	Spectrogram 1	1	Dendropsophus_microcephalus	30.165333333	30.314666667	2554.6875	3328.125	0
-26	Spectrogram 1	1	Leptodactylus_fragilis	31.36	31.509333333	796.875	1218.75	0
-27	Spectrogram 1	1	Dendropsophus_microcephalus	31.530666667	31.690666667	2507.8125	3375.0	0
-28	Spectrogram 1	1	Leptodactylus_fragilis	32.256	32.426666667	726.5625	1195.3125	0
-29	Spectrogram 1	1	Dendropsophus_microcephalus	32.586666667	33.002666667	2414.0625	3375.0	0
-30	Spectrogram 1	1	Dendropsophus_microcephalus	34.88	35.477333333	2460.9375	3398.4375	0
-31	Spectrogram 1	1	Leptodactylus_fragilis	35.04	35.242666667	843.75	1382.8125	0
-32	Spectrogram 1	1	Leptodactylus_fragilis	35.744	35.904	820.3125	1242.1875	0
-33	Spectrogram 1	1	Leptodactylus_fragilis	36.821333333	36.970666667	796.875	1289.0625	0
-34	Spectrogram 1	1	Dendropsophus_microcephalus	37.258666667	37.92	2484.375	3375.0	0
-35	Spectrogram 1	1	Leptodactylus_fragilis	37.664	37.92	820.3125	1335.9375	0
-36	Spectrogram 1	1	Leptodactylus_fragilis	38.656	38.805333333	820.3125	1242.1875	0
-37	Spectrogram 1	1	Leptodactylus_fragilis	39.296	39.477333333	843.75	1289.0625	0
-38	Spectrogram 1	1	Leptodactylus_fragilis	40.277333333	40.48	796.875	1710.9375	1
-39	Spectrogram 1	1	Leptodactylus_fragilis	41.002666667	41.184	796.875	1289.0625	0
-40	Spectrogram 1	1	Leptodactylus_fragilis	46.496	46.666666667	820.3125	1242.1875	0
-41	Spectrogram 1	1	Dendropsophus_microcephalus	46.976	47.125333333	2601.5625	3023.4375	1
-42	Spectrogram 1	1	Leptodactylus_fragilis	47.146666667	47.381333333	796.875	1335.9375	0
-43	Spectrogram 1	1	Leptodactylus_fragilis	47.968	48.138666667	820.3125	1382.8125	0
-44	Spectrogram 1	1	Leptodactylus_fragilis	49.173333333	49.354666667	843.75	1335.9375	0
-45	Spectrogram 1	1	Leptodactylus_fragilis	49.962666667	50.133333333	820.3125	1265.625	0
-46	Spectrogram 1	1	Dendropsophus_microcephalus	50.058666667	50.218666667	2554.6875	3257.8125	0
-47	Spectrogram 1	1	Leptodactylus_fragilis	51.349333333	51.52	820.3125	1265.625	0
-48	Spectrogram 1	1	Dendropsophus_microcephalus	51.712	51.882666667	2578.125	3304.6875	0
-49	Spectrogram 1	1	Leptodactylus_fragilis	52.544	52.714666667	820.3125	1242.1875	0
-50	Spectrogram 1	1	Dendropsophus_microcephalus	54.389333333	54.698666667	2554.6875	3257.8125	0
-51	Spectrogram 1	1	Dendropsophus_microcephalus	57.109333333	57.344	2578.125	3375.0	0
-52	Spectrogram 1	1	Dendropsophus_microcephalus	58.538666667	58.848	2460.9375	3351.5625	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fragilis	2.112	2.304	796.875	1359.375	5706	0
+2	Spectrogram 1	1	Leptodactylus_fragilis	3.029333333	3.232	796.875	1382.8125	5713	0
+3	Spectrogram 1	1	Dendropsophus_microcephalus	3.744	4.256	2531.25	3304.6875	5715	0
+4	Spectrogram 1	1	Leptodactylus_fragilis	3.765333333	3.957333333	820.3125	1382.8125	5716	0
+5	Spectrogram 1	1	Leptodactylus_fragilis	4.437333333	4.650666667	820.3125	1382.8125	5719	0
+6	Spectrogram 1	1	Leptodactylus_fragilis	5.397333333	5.770666667	398.4375	1382.8125	5721	1
+7	Spectrogram 1	1	Dendropsophus_microcephalus	5.813333333	5.984	2531.25	3164.0625	5724	0
+8	Spectrogram 1	1	Leptodactylus_fragilis	6.592	6.784	820.3125	1312.5	5725	1
+9	Spectrogram 1	1	Dendropsophus_microcephalus	7.04	7.178666667	2507.8125	3328.125	5727	0
+10	Spectrogram 1	1	Leptodactylus_fragilis	7.317333333	7.509333333	820.3125	1289.0625	5728	0
+11	Spectrogram 1	1	Leptodactylus_fragilis	8.021333333	8.224	796.875	1382.8125	5729	0
+12	Spectrogram 1	1	Leptodactylus_fragilis	8.725333333	8.938666667	796.875	1335.9375	5731	0
+13	Spectrogram 1	1	Dendropsophus_microcephalus	9.141333333	9.301333333	2531.25	3164.0625	5733	0
+14	Spectrogram 1	1	Leptodactylus_fragilis	9.514666667	9.717333333	820.3125	1382.8125	5735	0
+15	Spectrogram 1	1	Leptodactylus_fragilis	10.357333333	10.549333333	820.3125	1382.8125	5736	0
+16	Spectrogram 1	1	Dendropsophus_microcephalus	10.421333333	10.581333333	2531.25	3210.9375	5737	0
+17	Spectrogram 1	1	Leptodactylus_fragilis	12.373333333	12.565333333	820.3125	1335.9375	5742	0
+18	Spectrogram 1	1	Leptodactylus_fragilis	13.162666667	13.354666667	796.875	1312.5	5746	0
+19	Spectrogram 1	1	Dendropsophus_microcephalus	14.08	14.250666667	2460.9375	3117.1875	5749	0
+20	Spectrogram 1	1	Dendropsophus_microcephalus	16.778666667	16.938666667	2414.0625	3375.0	5753	1
+21	Spectrogram 1	1	Dendropsophus_microcephalus	18.144	18.442666667	2460.9375	3375.0	5757	0
+22	Spectrogram 1	1	Dendropsophus_microcephalus	20.832	20.992	2531.25	3234.375	5763	0
+23	Spectrogram 1	1	Dendropsophus_microcephalus	22.144	22.549333333	2507.8125	3281.25	5767	0
+24	Spectrogram 1	1	Dendropsophus_microcephalus	28.512	28.650666667	2484.375	3281.25	5778	0
+25	Spectrogram 1	1	Dendropsophus_microcephalus	30.165333333	30.314666667	2554.6875	3328.125	5781	0
+26	Spectrogram 1	1	Leptodactylus_fragilis	31.36	31.509333333	796.875	1218.75	5784	0
+27	Spectrogram 1	1	Dendropsophus_microcephalus	31.530666667	31.690666667	2507.8125	3375.0	5785	0
+28	Spectrogram 1	1	Leptodactylus_fragilis	32.256	32.426666667	726.5625	1195.3125	5788	0
+29	Spectrogram 1	1	Dendropsophus_microcephalus	32.586666667	33.002666667	2414.0625	3375.0	5790	0
+30	Spectrogram 1	1	Dendropsophus_microcephalus	34.88	35.477333333	2460.9375	3398.4375	5793	0
+31	Spectrogram 1	1	Leptodactylus_fragilis	35.04	35.242666667	843.75	1382.8125	5795	0
+32	Spectrogram 1	1	Leptodactylus_fragilis	35.744	35.904	820.3125	1242.1875	5796	0
+33	Spectrogram 1	1	Leptodactylus_fragilis	36.821333333	36.970666667	796.875	1289.0625	5799	0
+34	Spectrogram 1	1	Dendropsophus_microcephalus	37.258666667	37.92	2484.375	3375.0	5801	0
+35	Spectrogram 1	1	Leptodactylus_fragilis	37.664	37.92	820.3125	1335.9375	5803	0
+36	Spectrogram 1	1	Leptodactylus_fragilis	38.656	38.805333333	820.3125	1242.1875	5804	0
+37	Spectrogram 1	1	Leptodactylus_fragilis	39.296	39.477333333	843.75	1289.0625	5806	0
+38	Spectrogram 1	1	Leptodactylus_fragilis	40.277333333	40.48	796.875	1710.9375	5807	1
+39	Spectrogram 1	1	Leptodactylus_fragilis	41.002666667	41.184	796.875	1289.0625	5809	0
+40	Spectrogram 1	1	Leptodactylus_fragilis	46.496	46.666666667	820.3125	1242.1875	5817	0
+41	Spectrogram 1	1	Dendropsophus_microcephalus	46.976	47.125333333	2601.5625	3023.4375	5818	1
+42	Spectrogram 1	1	Leptodactylus_fragilis	47.146666667	47.381333333	796.875	1335.9375	5820	0
+43	Spectrogram 1	1	Leptodactylus_fragilis	47.968	48.138666667	820.3125	1382.8125	5821	0
+44	Spectrogram 1	1	Leptodactylus_fragilis	49.173333333	49.354666667	843.75	1335.9375	5823	0
+45	Spectrogram 1	1	Leptodactylus_fragilis	49.962666667	50.133333333	820.3125	1265.625	5825	0
+46	Spectrogram 1	1	Dendropsophus_microcephalus	50.058666667	50.218666667	2554.6875	3257.8125	5826	0
+47	Spectrogram 1	1	Leptodactylus_fragilis	51.349333333	51.52	820.3125	1265.625	5828	0
+48	Spectrogram 1	1	Dendropsophus_microcephalus	51.712	51.882666667	2578.125	3304.6875	5829	0
+49	Spectrogram 1	1	Leptodactylus_fragilis	52.544	52.714666667	820.3125	1242.1875	5832	0
+50	Spectrogram 1	1	Dendropsophus_microcephalus	54.389333333	54.698666667	2554.6875	3257.8125	5837	0
+51	Spectrogram 1	1	Dendropsophus_microcephalus	57.109333333	57.344	2578.125	3375.0	5845	0
+52	Spectrogram 1	1	Dendropsophus_microcephalus	58.538666667	58.848	2460.9375	3351.5625	5848	0

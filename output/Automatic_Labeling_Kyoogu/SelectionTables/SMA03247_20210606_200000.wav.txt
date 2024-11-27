@@ -1,13 +1,13 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	BOAN	1.6	3.598999999999967	1.6	2500	0
-2	Spectrogram 1	1	BOAN	10.0	12.399000000000001	10.0	2500	0
-3	Spectrogram 1	1	BOAN	11.6	14.398999999999978	11.6	2500	0
-4	Spectrogram 1	1	BOAN	20.0	21.999000000000024	20.0	2500	0
-5	Spectrogram 1	1	BOAN	29.6	31.59899999999997	29.6	2500	0
-6	Spectrogram 1	1	BOAN	31.2	33.19899999999997	31.2	2500	0
-7	Spectrogram 1	1	BOAN	32.0	35.599000000000046	32.0	2500	0
-8	Spectrogram 1	1	BOAN	36.8	38.79900000000002	36.8	2500	0
-9	Spectrogram 1	1	BOAN	37.6	39.599000000000025	37.6	2500	0
-10	Spectrogram 1	1	BOAN	43.2	45.19899999999991	43.2	2500	0
-11	Spectrogram 1	1	BOAN	46.4	48.39900000000002	46.4	2500	0
-12	Spectrogram 1	1	BOAN	51.6	53.599000000000025	51.6	2500	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Boana_platanera	32.0	35.599000000000046	32.0	2500	141	0
+2	Spectrogram 1	1	Boana_platanera	43.2	45.19899999999991	43.2	2500	144	0
+3	Spectrogram 1	1	Boana_platanera	37.6	39.599000000000025	37.6	2500	143	0
+4	Spectrogram 1	1	Boana_platanera	36.8	38.79900000000002	36.8	2500	142	0
+5	Spectrogram 1	1	Boana_platanera	51.6	53.599000000000025	51.6	2500	146	0
+6	Spectrogram 1	1	Boana_platanera	31.2	33.19899999999997	31.2	2500	140	0
+7	Spectrogram 1	1	Boana_platanera	46.4	48.39900000000002	46.4	2500	145	0
+8	Spectrogram 1	1	Boana_platanera	20.0	21.999000000000024	20.0	2500	138	0
+9	Spectrogram 1	1	Boana_platanera	11.6	14.398999999999978	11.6	2500	137	0
+10	Spectrogram 1	1	Boana_platanera	10.0	12.399000000000001	10.0	2500	136	0
+11	Spectrogram 1	1	Boana_platanera	1.6	3.598999999999967	1.6	2500	135	0
+12	Spectrogram 1	1	Boana_platanera	29.6	31.59899999999997	29.6	2500	139	0

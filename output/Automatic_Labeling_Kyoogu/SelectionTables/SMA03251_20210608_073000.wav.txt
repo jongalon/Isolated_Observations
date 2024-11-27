@@ -1,5 +1,5 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	TRGL	10.8	12.798999999999996	10.8	7000	0
-2	Spectrogram 1	1	TRGL	32.8	34.798999999999964	32.8	7000	0
-3	Spectrogram 1	1	TRGL	43.6	45.59899999999997	43.6	7000	1
-4	Spectrogram 1	1	TRGL	44.4	46.39900000000002	44.4	7000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Troglodytes_aedon	32.8	34.798999999999964	32.8	7000	1379	0
+2	Spectrogram 1	1	Troglodytes_aedon	43.6	45.59899999999997	43.6	7000	1380	0
+3	Spectrogram 1	1	Troglodytes_aedon	10.8	12.798999999999996	10.8	7000	1378	0
+4	Spectrogram 1	1	Troglodytes_aedon	44.4	46.39900000000002	44.4	7000	1381	0

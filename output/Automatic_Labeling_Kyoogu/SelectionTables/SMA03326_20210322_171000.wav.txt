@@ -1,4 +1,4 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	PTGN	50.0	52.399	50.0	1000	0
-2	Spectrogram 1	1	PTGN	51.2	53.99899999999998	51.2	1000	0
-3	Spectrogram 1	1	PTGN	52.8	55.59900000000009	52.8	1000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Patagioenas_cayennensis	52.8	55.59900000000009	52.8	1000	1271	0
+2	Spectrogram 1	1	Patagioenas_cayennensis	51.2	53.99899999999998	51.2	1000	1270	0
+3	Spectrogram 1	1	Patagioenas_cayennensis	50.0	52.399	50.0	1000	1269	0

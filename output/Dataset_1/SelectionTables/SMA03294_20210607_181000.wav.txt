@@ -1,32 +1,32 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Leptodactylus_fuscus	0.501333333	0.789333333	1687.5	3070.3125	0
-2	Spectrogram 1	1	Leptodactylus_fuscus	2.773333333	2.997333333	1664.0625	2718.75	0
-3	Spectrogram 1	1	Leptodactylus_fuscus	16.352	16.608	1734.375	3140.625	0
-4	Spectrogram 1	1	Leptodactylus_fuscus	21.205333333	21.344	1828.125	2765.625	1
-5	Spectrogram 1	1	Leptodactylus_fuscus	21.472	21.642666667	2437.5	3000.0	0
-6	Spectrogram 1	1	Leptodactylus_fuscus	22.272	22.410666667	1710.9375	2367.1875	0
-7	Spectrogram 1	1	Leptodactylus_fuscus	24.128	24.288	2203.125	3140.625	0
-8	Spectrogram 1	1	Leptodactylus_fuscus	24.672	24.8	2414.0625	2882.8125	0
-9	Spectrogram 1	1	Leptodactylus_fuscus	25.205333333	25.365333333	2273.4375	2835.9375	0
-10	Spectrogram 1	1	Leptodactylus_fuscus	25.781333333	25.898666667	2343.75	2835.9375	0
-11	Spectrogram 1	1	Leptodactylus_fuscus	26.272	26.4	2343.75	2835.9375	0
-12	Spectrogram 1	1	Leptodactylus_fuscus	33.141333333	33.376	1804.6875	3281.25	0
-13	Spectrogram 1	1	Leptodactylus_fuscus	33.792	33.962666667	2507.8125	2812.5	0
-14	Spectrogram 1	1	Leptodactylus_fuscus	34.304	34.474666667	2531.25	2882.8125	0
-15	Spectrogram 1	1	Leptodactylus_fuscus	35.136	35.285333333	1687.5	2718.75	0
-16	Spectrogram 1	1	Leptodactylus_fuscus	35.712	35.861333333	1828.125	2695.3125	0
-17	Spectrogram 1	1	Leptodactylus_fuscus	36.053333333	36.469333333	1664.0625	2718.75	0
-18	Spectrogram 1	1	Leptodactylus_fuscus	36.586666667	37.205333333	1640.625	2812.5	0
-19	Spectrogram 1	1	Leptodactylus_fuscus	37.205333333	37.856	1242.1875	2859.375	0
-20	Spectrogram 1	1	Leptodactylus_fuscus	43.765333333	44.149333333	1007.8125	2765.625	1
-21	Spectrogram 1	1	Leptodactylus_fuscus	46.314666667	46.517333333	1734.375	2859.375	0
-22	Spectrogram 1	1	Leptodactylus_fuscus	46.88	47.050666667	1687.5	2765.625	0
-23	Spectrogram 1	1	Leptodactylus_fuscus	48.768	48.981333333	1664.0625	2859.375	0
-24	Spectrogram 1	1	Leptodactylus_fuscus	50.890666667	51.157333333	1335.9375	2835.9375	0
-25	Spectrogram 1	1	Leptodactylus_fuscus	52.416	52.576	1593.75	2531.25	0
-26	Spectrogram 1	1	Leptodactylus_fuscus	52.917333333	53.322666667	1570.3125	2859.375	0
-27	Spectrogram 1	1	Leptodactylus_fuscus	54.912	55.093333333	1734.375	2882.8125	0
-28	Spectrogram 1	1	Leptodactylus_fuscus	55.178666667	55.306666667	1945.3125	2742.1875	0
-29	Spectrogram 1	1	Leptodactylus_fuscus	55.424	55.626666667	1664.0625	3093.75	0
-30	Spectrogram 1	1	Leptodactylus_fuscus	57.237333333	57.6	1476.5625	3187.5	0
-31	Spectrogram 1	1	Leptodactylus_fuscus	58.037333333	58.229333333	1640.625	2648.4375	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	0.501333333	0.789333333	1687.5	3070.3125	5456	0
+2	Spectrogram 1	1	Leptodactylus_fuscus	2.773333333	2.997333333	1664.0625	2718.75	5473	0
+3	Spectrogram 1	1	Leptodactylus_fuscus	16.352	16.608	1734.375	3140.625	5541	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	21.205333333	21.344	1828.125	2765.625	5556	0
+5	Spectrogram 1	1	Leptodactylus_fuscus	21.472	21.642666667	2437.5	3000.0	5559	1
+6	Spectrogram 1	1	Leptodactylus_fuscus	22.272	22.410666667	1710.9375	2367.1875	5561	0
+7	Spectrogram 1	1	Leptodactylus_fuscus	24.128	24.288	2203.125	3140.625	5568	1
+8	Spectrogram 1	1	Leptodactylus_fuscus	24.672	24.8	2414.0625	2882.8125	5569	0
+9	Spectrogram 1	1	Leptodactylus_fuscus	25.205333333	25.365333333	2273.4375	2835.9375	5570	0
+10	Spectrogram 1	1	Leptodactylus_fuscus	25.781333333	25.898666667	2343.75	2835.9375	5571	0
+11	Spectrogram 1	1	Leptodactylus_fuscus	26.272	26.4	2343.75	2835.9375	5572	0
+12	Spectrogram 1	1	Leptodactylus_fuscus	33.141333333	33.376	1804.6875	3281.25	5585	0
+13	Spectrogram 1	1	Leptodactylus_fuscus	33.792	33.962666667	2507.8125	2812.5	5587	0
+14	Spectrogram 1	1	Leptodactylus_fuscus	34.304	34.474666667	2531.25	2882.8125	5589	0
+15	Spectrogram 1	1	Leptodactylus_fuscus	35.136	35.285333333	1687.5	2718.75	5593	0
+16	Spectrogram 1	1	Leptodactylus_fuscus	35.712	35.861333333	1828.125	2695.3125	5596	0
+17	Spectrogram 1	1	Leptodactylus_fuscus	36.053333333	36.469333333	1664.0625	2718.75	5598	0
+18	Spectrogram 1	1	Leptodactylus_fuscus	36.586666667	37.205333333	1640.625	2812.5	5600	0
+19	Spectrogram 1	1	Leptodactylus_fuscus	37.205333333	37.856	1242.1875	2859.375	5605	0
+20	Spectrogram 1	1	Leptodactylus_fuscus	43.765333333	44.149333333	1007.8125	2765.625	5632	0
+21	Spectrogram 1	1	Leptodactylus_fuscus	46.314666667	46.517333333	1734.375	2859.375	5640	0
+22	Spectrogram 1	1	Leptodactylus_fuscus	46.88	47.050666667	1687.5	2765.625	5644	0
+23	Spectrogram 1	1	Leptodactylus_fuscus	48.768	48.981333333	1664.0625	2859.375	5654	0
+24	Spectrogram 1	1	Leptodactylus_fuscus	50.890666667	51.157333333	1335.9375	2835.9375	5660	0
+25	Spectrogram 1	1	Leptodactylus_fuscus	52.416	52.576	1593.75	2531.25	5665	0
+26	Spectrogram 1	1	Leptodactylus_fuscus	52.917333333	53.322666667	1570.3125	2859.375	5667	0
+27	Spectrogram 1	1	Leptodactylus_fuscus	54.912	55.093333333	1734.375	2882.8125	5672	0
+28	Spectrogram 1	1	Leptodactylus_fuscus	55.178666667	55.306666667	1945.3125	2742.1875	5673	0
+29	Spectrogram 1	1	Leptodactylus_fuscus	55.424	55.626666667	1664.0625	3093.75	5676	0
+30	Spectrogram 1	1	Leptodactylus_fuscus	57.237333333	57.6	1476.5625	3187.5	5685	1
+31	Spectrogram 1	1	Leptodactylus_fuscus	58.037333333	58.229333333	1640.625	2648.4375	5688	0

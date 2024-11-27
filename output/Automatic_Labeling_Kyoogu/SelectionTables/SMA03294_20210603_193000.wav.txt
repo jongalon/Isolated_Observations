@@ -1,26 +1,26 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	BOAN	1.6	3.999000000000001	1.6	2500	0
-2	Spectrogram 1	1	BOAN	7.2	10.399000000000012	7.2	2500	0
-3	Spectrogram 1	1	BOAN	9.2	11.199000000000023	9.2	2500	0
-4	Spectrogram 1	1	BOAN	10.0	11.999000000000024	10.0	2500	0
-5	Spectrogram 1	1	BOAN	15.6	17.999000000000002	15.6	2500	0
-6	Spectrogram 1	1	BOAN	17.6	19.59899999999997	17.6	2500	0
-7	Spectrogram 1	1	BOAN	27.2	29.199000000000023	27.2	2500	0
-8	Spectrogram 1	1	BOAN	33.2	37.599000000000004	33.2	2500	0
-9	Spectrogram 1	1	BOAN	36.8	39.99900000000001	36.8	2500	1
-10	Spectrogram 1	1	BOAN	38.8	40.798999999999964	38.8	2500	0
-11	Spectrogram 1	1	BOAN	40.8	43.598999999999975	40.8	2500	0
-12	Spectrogram 1	1	DEND	1.6	3.999000000000001	1.6	7200	1
-13	Spectrogram 1	1	DEND	8.0	9.999000000000024	8.0	7200	0
-14	Spectrogram 1	1	DEND	8.8	10.799000000000024	8.8	7200	0
-15	Spectrogram 1	1	DEND	12.4	14.399000000000024	12.4	7200	0
-16	Spectrogram 1	1	DEND	14.8	16.799000000000024	14.8	7200	0
-17	Spectrogram 1	1	DEND	15.6	17.599000000000025	15.6	7200	0
-18	Spectrogram 1	1	DEND	17.2	19.19899999999991	17.2	7200	0
-19	Spectrogram 1	1	DEND	27.2	29.599	27.2	7200	0
-20	Spectrogram 1	1	DEND	28.4	30.399000000000022	28.4	7200	0
-21	Spectrogram 1	1	DEND	32.4	34.799	32.4	7200	0
-22	Spectrogram 1	1	DEND	36.4	39.19899999999998	36.4	7200	0
-23	Spectrogram 1	1	DEND	39.2	42.39899999999996	39.2	7200	0
-24	Spectrogram 1	1	DEND	52.4	54.39900000000002	52.4	7200	0
-25	Spectrogram 1	1	DEND	54.0	55.999000000000024	54.0	7200	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Boana_platanera	36.8	39.99900000000001	36.8	2500	109	0
+2	Spectrogram 1	1	Boana_platanera	38.8	40.798999999999964	38.8	2500	110	0
+3	Spectrogram 1	1	Boana_platanera	40.8	43.598999999999975	40.8	2500	111	0
+4	Spectrogram 1	1	Boana_platanera	7.2	10.399000000000012	7.2	2500	102	0
+5	Spectrogram 1	1	Boana_platanera	33.2	37.599000000000004	33.2	2500	108	0
+6	Spectrogram 1	1	Boana_platanera	27.2	29.199000000000023	27.2	2500	107	0
+7	Spectrogram 1	1	Boana_platanera	17.6	19.59899999999997	17.6	2500	106	0
+8	Spectrogram 1	1	Boana_platanera	1.6	3.999000000000001	1.6	2500	101	0
+9	Spectrogram 1	1	Dendropsophus_microcephalus	1.6	3.999000000000001	1.6	7200	492	0
+10	Spectrogram 1	1	Dendropsophus_microcephalus	12.4	14.399000000000024	12.4	7200	495	0
+11	Spectrogram 1	1	Dendropsophus_microcephalus	14.8	16.799000000000024	14.8	7200	496	0
+12	Spectrogram 1	1	Dendropsophus_microcephalus	15.6	17.599000000000025	15.6	7200	497	0
+13	Spectrogram 1	1	Dendropsophus_microcephalus	17.2	19.19899999999991	17.2	7200	498	0
+14	Spectrogram 1	1	Dendropsophus_microcephalus	27.2	29.599	27.2	7200	499	0
+15	Spectrogram 1	1	Dendropsophus_microcephalus	28.4	30.399000000000022	28.4	7200	500	0
+16	Spectrogram 1	1	Dendropsophus_microcephalus	32.4	34.799	32.4	7200	501	0
+17	Spectrogram 1	1	Dendropsophus_microcephalus	36.4	39.19899999999998	36.4	7200	502	0
+18	Spectrogram 1	1	Dendropsophus_microcephalus	39.2	42.39899999999996	39.2	7200	503	0
+19	Spectrogram 1	1	Dendropsophus_microcephalus	8.8	10.799000000000024	8.8	7200	494	0
+20	Spectrogram 1	1	Dendropsophus_microcephalus	8.0	9.999000000000024	8.0	7200	493	0
+21	Spectrogram 1	1	Dendropsophus_microcephalus	52.4	54.39900000000002	52.4	7200	504	0
+22	Spectrogram 1	1	Boana_platanera	15.6	17.999000000000002	15.6	2500	105	0
+23	Spectrogram 1	1	Boana_platanera	10.0	11.999000000000024	10.0	2500	104	0
+24	Spectrogram 1	1	Boana_platanera	9.2	11.199000000000023	9.2	2500	103	0
+25	Spectrogram 1	1	Dendropsophus_microcephalus	54.0	55.999000000000024	54.0	7200	505	0

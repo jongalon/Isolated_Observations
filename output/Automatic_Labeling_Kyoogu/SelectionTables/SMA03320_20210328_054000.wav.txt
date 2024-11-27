@@ -1,11 +1,11 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DDPX	2.8	4.799	2.8	3100	0
-2	Spectrogram 1	1	DDPX	13.6	15.599	13.6	3100	0
-3	Spectrogram 1	1	DDPX	25.2	29.199	25.2	3100	0
-4	Spectrogram 1	1	DDPX	28.0	30.799	28.0	3100	1
-5	Spectrogram 1	1	DDPX	29.6	31.599	29.6	3100	0
-6	Spectrogram 1	1	DDPX	48.8	50.799	48.8	3100	1
-7	Spectrogram 1	1	MMLS	31.2	34.399000000000015	31.2	1300	0
-8	Spectrogram 1	1	MMLS	34.4	38.39900000000002	34.4	1300	0
-9	Spectrogram 1	1	MMLS	39.2	42.399000000000015	39.2	1300	0
-10	Spectrogram 1	1	MMLS	41.2	45.19900000000003	41.2	1300	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Dendroplex_picus	13.6	15.599	13.6	3100	350	0
+2	Spectrogram 1	1	Alouatta_sp	41.2	45.19900000000003	41.2	1300	1187	1
+3	Spectrogram 1	1	Alouatta_sp	39.2	42.399000000000015	39.2	1300	1186	1
+4	Spectrogram 1	1	Alouatta_sp	34.4	38.39900000000002	34.4	1300	1185	0
+5	Spectrogram 1	1	Alouatta_sp	31.2	34.399000000000015	31.2	1300	1184	0
+6	Spectrogram 1	1	Dendroplex_picus	48.8	50.799	48.8	3100	354	0
+7	Spectrogram 1	1	Dendroplex_picus	28.0	30.799	28.0	3100	352	0
+8	Spectrogram 1	1	Dendroplex_picus	25.2	29.199	25.2	3100	351	0
+9	Spectrogram 1	1	Dendroplex_picus	2.8	4.799	2.8	3100	349	0
+10	Spectrogram 1	1	Dendroplex_picus	29.6	31.599	29.6	3100	353	0

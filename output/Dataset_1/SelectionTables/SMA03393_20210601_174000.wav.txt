@@ -1,4 +1,4 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Crotophaga_ani	51.392	51.904	1171.875	2906.25	0
-2	Spectrogram 1	1	Crotophaga_ani	52.277333333	52.736	1195.3125	2882.8125	0
-3	Spectrogram 1	1	Crotophaga_ani	53.024	53.408	1265.625	2882.8125	1
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Crotophaga_ani	51.392	51.904	1171.875	2906.25	2551	0
+2	Spectrogram 1	1	Crotophaga_ani	52.277333333	52.736	1195.3125	2882.8125	2554	0
+3	Spectrogram 1	1	Crotophaga_ani	53.024	53.408	1265.625	2882.8125	2556	1

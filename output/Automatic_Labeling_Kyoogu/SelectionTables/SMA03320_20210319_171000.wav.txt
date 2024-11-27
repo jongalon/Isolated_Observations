@@ -1,22 +1,22 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DDPX	45.2	47.19899999999991	45.2	3100	1
-2	Spectrogram 1	1	FUSC	13.6	15.599000000000023	13.6	3000	0
-3	Spectrogram 1	1	FUSC	18.0	19.999000000000024	18.0	3000	0
-4	Spectrogram 1	1	FUSC	46.8	48.79900000000002	46.8	3000	0
-5	Spectrogram 1	1	FUSC	50.0	51.999000000000024	50.0	3000	0
-6	Spectrogram 1	1	PTGN	3.2	5.599000000000001	3.2	1000	0
-7	Spectrogram 1	1	PTGN	8.8	11.598999999999979	8.8	1000	0
-8	Spectrogram 1	1	PTGN	10.8	13.598999999999979	10.8	1000	0
-9	Spectrogram 1	1	PTGN	13.2	15.199000000000023	13.2	1000	0
-10	Spectrogram 1	1	PTGN	15.2	17.199000000000023	15.2	1000	0
-11	Spectrogram 1	1	PTGN	16.4	18.399000000000022	16.4	1000	0
-12	Spectrogram 1	1	PTGN	18.4	21.199000000000034	18.4	1000	0
-13	Spectrogram 1	1	PTGN	33.6	35.59899999999997	33.6	1000	0
-14	Spectrogram 1	1	PTGN	34.8	37.199	34.8	1000	0
-15	Spectrogram 1	1	PTGN	36.0	38.399	36.0	1000	0
-16	Spectrogram 1	1	PTGN	37.6	39.59899999999997	37.6	1000	0
-17	Spectrogram 1	1	PTGN	40.4	42.39900000000002	40.4	1000	0
-18	Spectrogram 1	1	PTGN	41.2	44.399000000000015	41.2	1000	0
-19	Spectrogram 1	1	PTGN	49.6	51.59899999999997	49.6	1000	0
-20	Spectrogram 1	1	PTGN	53.2	55.19900000000003	53.2	1000	0
-21	Spectrogram 1	1	PTGN	54.4	56.799	54.4	1000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	18.0	19.999000000000024	18.0	3000	946	0
+2	Spectrogram 1	1	Patagioenas_cayennensis	54.4	56.799	54.4	1000	1245	0
+3	Spectrogram 1	1	Leptodactylus_fuscus	46.8	48.79900000000002	46.8	3000	947	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	13.6	15.599000000000023	13.6	3000	945	0
+5	Spectrogram 1	1	Leptodactylus_fuscus	50.0	51.999000000000024	50.0	3000	948	0
+6	Spectrogram 1	1	Dendroplex_picus	45.2	47.19899999999991	45.2	3100	424	0
+7	Spectrogram 1	1	Patagioenas_cayennensis	49.6	51.59899999999997	49.6	1000	1243	1
+8	Spectrogram 1	1	Patagioenas_cayennensis	41.2	44.399000000000015	41.2	1000	1242	0
+9	Spectrogram 1	1	Patagioenas_cayennensis	40.4	42.39900000000002	40.4	1000	1241	1
+10	Spectrogram 1	1	Patagioenas_cayennensis	37.6	39.59899999999997	37.6	1000	1240	0
+11	Spectrogram 1	1	Patagioenas_cayennensis	53.2	55.19900000000003	53.2	1000	1244	0
+12	Spectrogram 1	1	Patagioenas_cayennensis	34.8	37.199	34.8	1000	1238	0
+13	Spectrogram 1	1	Patagioenas_cayennensis	3.2	5.599000000000001	3.2	1000	1230	0
+14	Spectrogram 1	1	Patagioenas_cayennensis	8.8	11.598999999999979	8.8	1000	1231	0
+15	Spectrogram 1	1	Patagioenas_cayennensis	33.6	35.59899999999997	33.6	1000	1237	0
+16	Spectrogram 1	1	Patagioenas_cayennensis	18.4	21.199000000000034	18.4	1000	1236	0
+17	Spectrogram 1	1	Patagioenas_cayennensis	10.8	13.598999999999979	10.8	1000	1232	0
+18	Spectrogram 1	1	Patagioenas_cayennensis	13.2	15.199000000000023	13.2	1000	1233	0
+19	Spectrogram 1	1	Patagioenas_cayennensis	16.4	18.399000000000022	16.4	1000	1235	0
+20	Spectrogram 1	1	Patagioenas_cayennensis	36.0	38.399	36.0	1000	1239	0
+21	Spectrogram 1	1	Patagioenas_cayennensis	15.2	17.199000000000023	15.2	1000	1234	0

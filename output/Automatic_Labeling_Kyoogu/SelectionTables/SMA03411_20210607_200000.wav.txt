@@ -1,7 +1,7 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DEND	2.8	4.7990000000000235	2.8	7200	0
-2	Spectrogram 1	1	DEND	11.6	13.599000000000023	11.6	7200	0
-3	Spectrogram 1	1	DEND	15.2	18.39899999999984	15.2	7200	0
-4	Spectrogram 1	1	DEND	18.0	20.398999999999887	18.0	7200	0
-5	Spectrogram 1	1	DEND	19.6	21.599000000000025	19.6	7200	0
-6	Spectrogram 1	1	DEND	24.8	27.199000000000115	24.8	7200	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Dendropsophus_microcephalus	2.8	4.7990000000000235	2.8	7200	519	1
+2	Spectrogram 1	1	Dendropsophus_microcephalus	11.6	13.599000000000023	11.6	7200	520	1
+3	Spectrogram 1	1	Dendropsophus_microcephalus	15.2	18.39899999999984	15.2	7200	521	0
+4	Spectrogram 1	1	Dendropsophus_microcephalus	18.0	20.398999999999887	18.0	7200	522	1
+5	Spectrogram 1	1	Dendropsophus_microcephalus	19.6	21.599000000000025	19.6	7200	523	0
+6	Spectrogram 1	1	Dendropsophus_microcephalus	24.8	27.199000000000115	24.8	7200	524	1

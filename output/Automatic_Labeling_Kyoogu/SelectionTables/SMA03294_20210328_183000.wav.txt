@@ -1,12 +1,12 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	FUSC	11.6	13.598999999999995	11.6	3000	0
-2	Spectrogram 1	1	FUSC	12.8	15.199000000000002	12.8	3000	0
-3	Spectrogram 1	1	FUSC	16.0	17.998999999999995	16.0	3000	0
-4	Spectrogram 1	1	FUSC	16.8	18.798999999999996	16.8	3000	0
-5	Spectrogram 1	1	FUSC	34.8	36.79899999999999	34.8	3000	0
-6	Spectrogram 1	1	FUSC	37.2	39.19900000000003	37.2	3000	0
-7	Spectrogram 1	1	FUSC	45.6	47.599	45.6	3000	0
-8	Spectrogram 1	1	FUSC	46.4	48.398999999999994	46.4	3000	0
-9	Spectrogram 1	1	FUSC	49.2	51.99900000000001	49.2	3000	1
-10	Spectrogram 1	1	FUSC	56.0	57.998999999999995	56.0	3000	0
-11	Spectrogram 1	1	FUSC	56.8	59.199	56.8	3000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	16.0	17.998999999999995	16.0	3000	881	0
+2	Spectrogram 1	1	Leptodactylus_fuscus	12.8	15.199000000000002	12.8	3000	880	0
+3	Spectrogram 1	1	Leptodactylus_fuscus	11.6	13.598999999999995	11.6	3000	879	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	34.8	36.79899999999999	34.8	3000	883	1
+5	Spectrogram 1	1	Leptodactylus_fuscus	37.2	39.19900000000003	37.2	3000	884	0
+6	Spectrogram 1	1	Leptodactylus_fuscus	16.8	18.798999999999996	16.8	3000	882	0
+7	Spectrogram 1	1	Leptodactylus_fuscus	45.6	47.599	45.6	3000	885	1
+8	Spectrogram 1	1	Leptodactylus_fuscus	49.2	51.99900000000001	49.2	3000	887	1
+9	Spectrogram 1	1	Leptodactylus_fuscus	56.0	57.998999999999995	56.0	3000	888	1
+10	Spectrogram 1	1	Leptodactylus_fuscus	56.8	59.199	56.8	3000	889	1
+11	Spectrogram 1	1	Leptodactylus_fuscus	46.4	48.398999999999994	46.4	3000	886	0

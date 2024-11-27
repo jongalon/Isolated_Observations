@@ -1,5 +1,5 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DDPX	16.0	17.999000000000024	16.0	3100	1
-2	Spectrogram 1	1	DDPX	18.4	20.799	18.4	3100	1
-3	Spectrogram 1	1	DDPX	32.0	35.999000000000024	32.0	3100	0
-4	Spectrogram 1	1	DDPX	37.2	39.19899999999991	37.2	3100	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Dendroplex_picus	18.4	20.799	18.4	3100	420	1
+2	Spectrogram 1	1	Dendroplex_picus	16.0	17.999000000000024	16.0	3100	419	0
+3	Spectrogram 1	1	Dendroplex_picus	37.2	39.19899999999991	37.2	3100	422	1
+4	Spectrogram 1	1	Dendroplex_picus	32.0	35.999000000000024	32.0	3100	421	1

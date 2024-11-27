@@ -7,6 +7,81 @@ from sklearn.preprocessing import StandardScaler
 from scipy.stats import chi2
 
 
+import pandas as pd
+import matplotlib.pyplot as plt
+
+from factor_analyzer.factor_analyzer import calculate_kmo
+
+def filter_variables_by_kmo(df_only_features_scaled, limit = 0.4):
+    """
+    Filters variables based on their KMO values until the overall KMO model value is adequate.
+    
+    Parameters:
+        df_only_features_scaled (DataFrame): DataFrame containing scaled features.
+        limit (float, optional): Threshold value for KMO. Default is 0.4.
+    
+    Returns:
+        DataFrame: Filtered DataFrame after removing variables with low KMO values.
+        DataFrame: DataFrame containing the variables removed due to low KMO values.
+    """
+    import warnings
+    warnings.filterwarnings("ignore", message="The inverse of the variance-covariance matrix was calculated using the Moore-Penrose generalized matrix inversion, due to its determinant being at or very close to zero.")
+
+    # KMO Test 
+    kmo_all, kmo_model = calculate_kmo(df_only_features_scaled)
+    print(f"KMO: {kmo_model}")
+    
+    kmo_df = pd.DataFrame({'Variable': df_only_features_scaled.columns, 'KMO': kmo_all})
+    variables_to_remove = pd.DataFrame()
+    
+    while kmo_model < 0.7:
+        print(f"Variables with value less than {limit} are removed.")
+        print("Detecting variables with low KMO...")
+
+        # Filter the variables to keep
+        variables_to_keep = kmo_df[kmo_df['KMO'] >= limit]['Variable']
+        variables_to_remove = pd.concat([variables_to_remove, kmo_df[kmo_df['KMO'] < limit][['Variable']]], ignore_index=True)
+
+        # Create a DataFrame after removing variables with low KMO
+        df_filtered_afterKMO = df_only_features_scaled[variables_to_keep]
+
+        # Determine colors for the bars
+        colors = ['red' if kmo < limit else 'skyblue' for kmo in kmo_df['KMO']]
+
+        # Visualize the KMO values
+        plt.figure(figsize=(10, 6))
+        plt.barh(kmo_df['Variable'], kmo_df['KMO'], color=colors)
+        plt.xlabel('KMO')
+        plt.ylabel('Variables')
+        plt.title(f"KMO per Variable with overall KMO of {round(kmo_model, 2)}")
+        plt.axvline(x=limit, color='gray', linestyle='--')
+        plt.show()
+
+        #print(f'The variables to remove are: \n {variables_to_remove}')
+
+        # Calculate the new KMO
+        print("Calculating the new KMO...")
+        kmo_all, kmo_model = calculate_kmo(df_filtered_afterKMO)
+        kmo_df = pd.DataFrame({'Variable': df_filtered_afterKMO.columns, 'KMO': kmo_all})
+        print(f"The new KMO value after removing variables is: {kmo_model}")
+
+        if kmo_df[kmo_df['KMO'] < limit]['Variable'].empty:
+            break
+
+    # Final visualization of KMO values
+    plt.figure(figsize=(10, 6))
+    plt.barh(kmo_df['Variable'], kmo_df['KMO'], color='skyblue')
+    plt.xlabel('KMO')
+    plt.ylabel('Variables')
+    plt.title(f"KMO per Variable with overall KMO of {round(kmo_model, 2)}")
+    plt.show()
+    print(f"The final KMO value is: {kmo_model}")
+    print(f'The removed variables are: \n {variables_to_remove}')
+
+    return df_filtered_afterKMO, variables_to_remove
+
+
+
 def self_calculate_bartlett_sphericity(data):
     """
     Perform Bartlett's test of sphericity.

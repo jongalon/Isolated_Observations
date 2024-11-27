@@ -1,24 +1,24 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	FRAG	0.0	1.9990000000000236	0.0	3500	0
-2	Spectrogram 1	1	FRAG	2.4	4.799000000000001	2.4	3500	0
-3	Spectrogram 1	1	FRAG	6.0	7.999000000000024	6.0	3500	0
-4	Spectrogram 1	1	FRAG	7.2	10.398999999999955	7.2	3500	0
-5	Spectrogram 1	1	FRAG	16.0	17.999000000000024	16.0	3500	0
-6	Spectrogram 1	1	FRAG	17.2	19.998999999999977	17.2	3500	0
-7	Spectrogram 1	1	FRAG	19.2	21.19899999999991	19.2	3500	0
-8	Spectrogram 1	1	FRAG	23.6	25.599000000000025	23.6	3500	0
-9	Spectrogram 1	1	FRAG	24.4	26.399000000000022	24.4	3500	0
-10	Spectrogram 1	1	FRAG	25.2	27.19899999999991	25.2	3500	0
-11	Spectrogram 1	1	FRAG	26.0	28.399	26.0	3500	1
-12	Spectrogram 1	1	FRAG	28.8	30.799000000000024	28.8	3500	0
-13	Spectrogram 1	1	FRAG	32.8	34.79900000000002	32.8	3500	0
-14	Spectrogram 1	1	FRAG	36.0	37.999000000000024	36.0	3500	0
-15	Spectrogram 1	1	FRAG	36.8	39.999000000000066	36.8	3500	0
-16	Spectrogram 1	1	FRAG	40.4	42.39900000000002	40.4	3500	0
-17	Spectrogram 1	1	FRAG	45.2	47.19899999999991	45.2	3500	0
-18	Spectrogram 1	1	FRAG	46.4	48.39900000000002	46.4	3500	0
-19	Spectrogram 1	1	FRAG	47.2	49.599000000000004	47.2	3500	0
-20	Spectrogram 1	1	FRAG	52.0	53.999000000000024	52.0	3500	0
-21	Spectrogram 1	1	FRAG	52.8	54.79900000000002	52.8	3500	0
-22	Spectrogram 1	1	FRAG	53.6	56.39899999999998	53.6	3500	0
-23	Spectrogram 1	1	FRAG	56.4	58.799	56.4	3500	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fragilis	23.6	25.599000000000025	23.6	3500	684	0
+2	Spectrogram 1	1	Leptodactylus_fragilis	24.4	26.399000000000022	24.4	3500	685	0
+3	Spectrogram 1	1	Leptodactylus_fragilis	25.2	27.19899999999991	25.2	3500	686	0
+4	Spectrogram 1	1	Leptodactylus_fragilis	26.0	28.399	26.0	3500	687	0
+5	Spectrogram 1	1	Leptodactylus_fragilis	28.8	30.799000000000024	28.8	3500	688	0
+6	Spectrogram 1	1	Leptodactylus_fragilis	32.8	34.79900000000002	32.8	3500	689	0
+7	Spectrogram 1	1	Leptodactylus_fragilis	36.8	39.999000000000066	36.8	3500	691	0
+8	Spectrogram 1	1	Leptodactylus_fragilis	52.8	54.79900000000002	52.8	3500	697	0
+9	Spectrogram 1	1	Leptodactylus_fragilis	45.2	47.19899999999991	45.2	3500	693	0
+10	Spectrogram 1	1	Leptodactylus_fragilis	46.4	48.39900000000002	46.4	3500	694	0
+11	Spectrogram 1	1	Leptodactylus_fragilis	47.2	49.599000000000004	47.2	3500	695	0
+12	Spectrogram 1	1	Leptodactylus_fragilis	52.0	53.999000000000024	52.0	3500	696	0
+13	Spectrogram 1	1	Leptodactylus_fragilis	19.2	21.19899999999991	19.2	3500	683	0
+14	Spectrogram 1	1	Leptodactylus_fragilis	53.6	56.39899999999998	53.6	3500	698	0
+15	Spectrogram 1	1	Leptodactylus_fragilis	56.4	58.799	56.4	3500	699	0
+16	Spectrogram 1	1	Leptodactylus_fragilis	40.4	42.39900000000002	40.4	3500	692	0
+17	Spectrogram 1	1	Leptodactylus_fragilis	17.2	19.998999999999977	17.2	3500	682	0
+18	Spectrogram 1	1	Leptodactylus_fragilis	36.0	37.999000000000024	36.0	3500	690	0
+19	Spectrogram 1	1	Leptodactylus_fragilis	7.2	10.398999999999955	7.2	3500	680	0
+20	Spectrogram 1	1	Leptodactylus_fragilis	6.0	7.999000000000024	6.0	3500	679	0
+21	Spectrogram 1	1	Leptodactylus_fragilis	2.4	4.799000000000001	2.4	3500	678	0
+22	Spectrogram 1	1	Leptodactylus_fragilis	0.0	1.9990000000000236	0.0	3500	677	0
+23	Spectrogram 1	1	Leptodactylus_fragilis	16.0	17.999000000000024	16.0	3500	681	0

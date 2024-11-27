@@ -1,24 +1,24 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Nyctidromus_albicollis	2.048	2.56	890.625	2625.0	0
-2	Spectrogram 1	1	Nyctidromus_albicollis	4.725333333	5.237333333	937.5	2625.0	0
-3	Spectrogram 1	1	Nyctidromus_albicollis	7.573333333	8.085333333	914.0625	2695.3125	0
-4	Spectrogram 1	1	Nyctidromus_albicollis	9.941333333	10.474666667	914.0625	2648.4375	0
-5	Spectrogram 1	1	Nyctidromus_albicollis	12.149333333	12.661333333	937.5	2648.4375	0
-6	Spectrogram 1	1	Nyctidromus_albicollis	14.24	14.752	960.9375	2625.0	0
-7	Spectrogram 1	1	Nyctidromus_albicollis	16.554666667	17.077333333	867.1875	2648.4375	0
-8	Spectrogram 1	1	Nyctidromus_albicollis	19.072	19.584	937.5	2648.4375	0
-9	Spectrogram 1	1	Nyctidromus_albicollis	21.749333333	22.261333333	960.9375	2648.4375	0
-10	Spectrogram 1	1	Nyctidromus_albicollis	24.256	24.768	914.0625	2625.0	0
-11	Spectrogram 1	1	Nyctidromus_albicollis	26.677333333	27.221333333	914.0625	2695.3125	0
-12	Spectrogram 1	1	Nyctidromus_albicollis	28.96	29.472	914.0625	2648.4375	0
-13	Spectrogram 1	1	Nyctidromus_albicollis	31.338666667	31.84	914.0625	2625.0	0
-14	Spectrogram 1	1	Nyctidromus_albicollis	34.101333333	34.602666667	960.9375	2625.0	0
-15	Spectrogram 1	1	Nyctidromus_albicollis	36.928	37.429333333	914.0625	2625.0	0
-16	Spectrogram 1	1	Nyctidromus_albicollis	39.605333333	40.096	843.75	2625.0	0
-17	Spectrogram 1	1	Nyctidromus_albicollis	42.133333333	42.624	890.625	2578.125	0
-18	Spectrogram 1	1	Nyctidromus_albicollis	44.416	44.917333333	937.5	2625.0	0
-19	Spectrogram 1	1	Nyctidromus_albicollis	47.232	47.733333333	867.1875	2625.0	1
-20	Spectrogram 1	1	Nyctidromus_albicollis	49.792	50.325333333	914.0625	2625.0	0
-21	Spectrogram 1	1	Nyctidromus_albicollis	52.202666667	52.725333333	914.0625	2625.0	0
-22	Spectrogram 1	1	Nyctidromus_albicollis	54.549333333	55.125333333	914.0625	2601.5625	1
-23	Spectrogram 1	1	Nyctidromus_albicollis	56.672	57.344	914.0625	2578.125	1
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Nyctidromus_albicollis	2.048	2.56	890.625	2625.0	9731	0
+2	Spectrogram 1	1	Nyctidromus_albicollis	4.725333333	5.237333333	937.5	2625.0	9735	0
+3	Spectrogram 1	1	Nyctidromus_albicollis	7.573333333	8.085333333	914.0625	2695.3125	9742	0
+4	Spectrogram 1	1	Nyctidromus_albicollis	9.941333333	10.474666667	914.0625	2648.4375	9748	0
+5	Spectrogram 1	1	Nyctidromus_albicollis	12.149333333	12.661333333	937.5	2648.4375	9752	0
+6	Spectrogram 1	1	Nyctidromus_albicollis	14.24	14.752	960.9375	2625.0	9757	0
+7	Spectrogram 1	1	Nyctidromus_albicollis	16.554666667	17.077333333	867.1875	2648.4375	9764	0
+8	Spectrogram 1	1	Nyctidromus_albicollis	19.072	19.584	937.5	2648.4375	9768	0
+9	Spectrogram 1	1	Nyctidromus_albicollis	21.749333333	22.261333333	960.9375	2648.4375	9775	0
+10	Spectrogram 1	1	Nyctidromus_albicollis	24.256	24.768	914.0625	2625.0	9781	0
+11	Spectrogram 1	1	Nyctidromus_albicollis	26.677333333	27.221333333	914.0625	2695.3125	9786	0
+12	Spectrogram 1	1	Nyctidromus_albicollis	28.96	29.472	914.0625	2648.4375	9791	0
+13	Spectrogram 1	1	Nyctidromus_albicollis	31.338666667	31.84	914.0625	2625.0	9800	0
+14	Spectrogram 1	1	Nyctidromus_albicollis	34.101333333	34.602666667	960.9375	2625.0	9809	0
+15	Spectrogram 1	1	Nyctidromus_albicollis	36.928	37.429333333	914.0625	2625.0	9821	0
+16	Spectrogram 1	1	Nyctidromus_albicollis	39.605333333	40.096	843.75	2625.0	9831	0
+17	Spectrogram 1	1	Nyctidromus_albicollis	42.133333333	42.624	890.625	2578.125	9835	0
+18	Spectrogram 1	1	Nyctidromus_albicollis	44.416	44.917333333	937.5	2625.0	9838	0
+19	Spectrogram 1	1	Nyctidromus_albicollis	47.232	47.733333333	867.1875	2625.0	9845	1
+20	Spectrogram 1	1	Nyctidromus_albicollis	49.792	50.325333333	914.0625	2625.0	9850	0
+21	Spectrogram 1	1	Nyctidromus_albicollis	52.202666667	52.725333333	914.0625	2625.0	9856	0
+22	Spectrogram 1	1	Nyctidromus_albicollis	54.549333333	55.125333333	914.0625	2601.5625	9862	1
+23	Spectrogram 1	1	Nyctidromus_albicollis	56.672	57.344	914.0625	2578.125	9873	0

@@ -1,16 +1,16 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	BOAN	1.2	3.19899999999991	1.2	2500	0
-2	Spectrogram 1	1	BOAN	2.0	3.9990000000000236	2.0	2500	0
-3	Spectrogram 1	1	BOAN	10.8	12.799000000000024	10.8	2500	0
-4	Spectrogram 1	1	BOAN	14.4	16.399000000000022	14.4	2500	0
-5	Spectrogram 1	1	BOAN	19.2	21.19899999999991	19.2	2500	0
-6	Spectrogram 1	1	BOAN	20.0	22.399	20.0	2500	0
-7	Spectrogram 1	1	BOAN	21.2	23.19899999999991	21.2	2500	0
-8	Spectrogram 1	1	BOAN	34.8	36.79900000000002	34.8	2500	0
-9	Spectrogram 1	1	BOAN	35.6	38.79899999999996	35.6	2500	0
-10	Spectrogram 1	1	BOAN	37.6	39.599000000000025	37.6	2500	0
-11	Spectrogram 1	1	BOAN	40.0	41.999000000000024	40.0	2500	0
-12	Spectrogram 1	1	BOAN	40.8	42.79900000000002	40.8	2500	0
-13	Spectrogram 1	1	BOAN	50.0	52.399	50.0	2500	0
-14	Spectrogram 1	1	BOAN	51.2	53.19899999999991	51.2	2500	0
-15	Spectrogram 1	1	BOAN	53.6	55.599000000000025	53.6	2500	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Boana_platanera	40.0	41.999000000000024	40.0	2500	230	0
+2	Spectrogram 1	1	Boana_platanera	1.2	3.19899999999991	1.2	2500	220	0
+3	Spectrogram 1	1	Boana_platanera	2.0	3.9990000000000236	2.0	2500	221	0
+4	Spectrogram 1	1	Boana_platanera	10.8	12.799000000000024	10.8	2500	222	0
+5	Spectrogram 1	1	Boana_platanera	53.6	55.599000000000025	53.6	2500	234	0
+6	Spectrogram 1	1	Boana_platanera	35.6	38.79899999999996	35.6	2500	228	0
+7	Spectrogram 1	1	Boana_platanera	51.2	53.19899999999991	51.2	2500	233	0
+8	Spectrogram 1	1	Boana_platanera	19.2	21.19899999999991	19.2	2500	224	0
+9	Spectrogram 1	1	Boana_platanera	20.0	22.399	20.0	2500	225	0
+10	Spectrogram 1	1	Boana_platanera	21.2	23.19899999999991	21.2	2500	226	1
+11	Spectrogram 1	1	Boana_platanera	34.8	36.79900000000002	34.8	2500	227	0
+12	Spectrogram 1	1	Boana_platanera	50.0	52.399	50.0	2500	232	0
+13	Spectrogram 1	1	Boana_platanera	40.8	42.79900000000002	40.8	2500	231	0
+14	Spectrogram 1	1	Boana_platanera	14.4	16.399000000000022	14.4	2500	223	0
+15	Spectrogram 1	1	Boana_platanera	37.6	39.599000000000025	37.6	2500	229	0

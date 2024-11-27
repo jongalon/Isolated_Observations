@@ -1,19 +1,19 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	BOAN	8.8	10.799000000000024	8.8	2500	0
-2	Spectrogram 1	1	BOAN	10.4	12.399000000000024	10.4	2500	0
-3	Spectrogram 1	1	BOAN	15.6	17.599000000000025	15.6	2500	0
-4	Spectrogram 1	1	BOAN	23.6	25.599000000000025	23.6	2500	0
-5	Spectrogram 1	1	BOAN	26.0	27.999000000000024	26.0	2500	0
-6	Spectrogram 1	1	BOAN	36.4	38.39900000000002	36.4	2500	0
-7	Spectrogram 1	1	BOAN	39.2	41.19899999999991	39.2	2500	0
-8	Spectrogram 1	1	BOAN	40.4	42.39900000000002	40.4	2500	0
-9	Spectrogram 1	1	BOAN	41.6	43.599000000000025	41.6	2500	0
-10	Spectrogram 1	1	BOAN	44.4	47.59900000000007	44.4	2500	0
-11	Spectrogram 1	1	BOAN	46.4	48.39900000000002	46.4	2500	0
-12	Spectrogram 1	1	BOAN	47.2	50.798999999999936	47.2	2500	0
-13	Spectrogram 1	1	BOAN	52.8	57.59900000000009	52.8	2500	0
-14	Spectrogram 1	1	FUSC	2.4	4.399000000000024	2.4	3000	0
-15	Spectrogram 1	1	FUSC	16.8	18.799000000000024	16.8	3000	0
-16	Spectrogram 1	1	FUSC	44.4	46.39900000000002	44.4	3000	0
-17	Spectrogram 1	1	FUSC	47.2	49.99899999999998	47.2	3000	1
-18	Spectrogram 1	1	FUSC	57.2	59.19899999999991	57.2	3000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Boana_platanera	44.4	47.59900000000007	44.4	2500	263	0
+2	Spectrogram 1	1	Boana_platanera	41.6	43.599000000000025	41.6	2500	262	0
+3	Spectrogram 1	1	Boana_platanera	40.4	42.39900000000002	40.4	2500	261	0
+4	Spectrogram 1	1	Boana_platanera	39.2	41.19899999999991	39.2	2500	260	0
+5	Spectrogram 1	1	Boana_platanera	36.4	38.39900000000002	36.4	2500	259	1
+6	Spectrogram 1	1	Boana_platanera	26.0	27.999000000000024	26.0	2500	258	0
+7	Spectrogram 1	1	Boana_platanera	46.4	48.39900000000002	46.4	2500	264	1
+8	Spectrogram 1	1	Leptodactylus_fuscus	16.8	18.799000000000024	16.8	3000	976	0
+9	Spectrogram 1	1	Leptodactylus_fuscus	44.4	46.39900000000002	44.4	3000	977	0
+10	Spectrogram 1	1	Leptodactylus_fuscus	2.4	4.399000000000024	2.4	3000	975	1
+11	Spectrogram 1	1	Leptodactylus_fuscus	47.2	49.99899999999998	47.2	3000	978	1
+12	Spectrogram 1	1	Leptodactylus_fuscus	57.2	59.19899999999991	57.2	3000	979	0
+13	Spectrogram 1	1	Boana_platanera	8.8	10.799000000000024	8.8	2500	254	0
+14	Spectrogram 1	1	Boana_platanera	10.4	12.399000000000024	10.4	2500	255	0
+15	Spectrogram 1	1	Boana_platanera	15.6	17.599000000000025	15.6	2500	256	1
+16	Spectrogram 1	1	Boana_platanera	23.6	25.599000000000025	23.6	2500	257	1
+17	Spectrogram 1	1	Boana_platanera	47.2	50.798999999999936	47.2	2500	265	0
+18	Spectrogram 1	1	Boana_platanera	52.8	57.59900000000009	52.8	2500	266	0

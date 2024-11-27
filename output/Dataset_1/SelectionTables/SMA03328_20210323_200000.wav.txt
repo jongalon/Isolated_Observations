@@ -1,36 +1,36 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Nyctidromus_albicollis	0.906666667	1.226666667	1429.6875	2531.25	0
-2	Spectrogram 1	1	Nyctidromus_albicollis	3.168	3.445333333	1476.5625	2484.375	0
-3	Spectrogram 1	1	Nyctidromus_albicollis	5.664	5.952	1476.5625	2437.5	1
-4	Spectrogram 1	1	Nyctidromus_albicollis	6.528	6.997333333	1171.875	2507.8125	0
-5	Spectrogram 1	1	Nyctidromus_albicollis	7.850666667	8.170666667	1195.3125	2367.1875	0
-6	Spectrogram 1	1	Nyctidromus_albicollis	9.952	10.218666667	1382.8125	2320.3125	0
-7	Spectrogram 1	1	Nyctidromus_albicollis	10.485333333	10.986666667	1171.875	2437.5	0
-8	Spectrogram 1	1	Nyctidromus_albicollis	12.469333333	12.768	1429.6875	2390.625	0
-9	Spectrogram 1	1	Nyctidromus_albicollis	14.144	14.613333333	1195.3125	2507.8125	0
-10	Spectrogram 1	1	Nyctidromus_albicollis	15.242666667	15.541333333	1476.5625	2367.1875	0
-11	Spectrogram 1	1	Nyctidromus_albicollis	17.578666667	17.877333333	1500.0	2273.4375	0
-12	Spectrogram 1	1	Nyctidromus_albicollis	18.101333333	18.592	1171.875	2601.5625	0
-13	Spectrogram 1	1	Nyctidromus_albicollis	20.426666667	20.725333333	1312.5	2296.875	0
-14	Spectrogram 1	1	Nyctidromus_albicollis	22.005333333	22.517333333	1148.4375	2554.6875	0
-15	Spectrogram 1	1	Nyctidromus_albicollis	23.264	23.562666667	1335.9375	2273.4375	0
-16	Spectrogram 1	1	Nyctidromus_albicollis	25.237333333	26.048	1125.0	2601.5625	0
-17	Spectrogram 1	1	Nyctidromus_albicollis	28.512	28.789333333	1453.125	2296.875	0
-18	Spectrogram 1	1	Nyctidromus_albicollis	29.461333333	29.930666667	1171.875	2812.5	0
-19	Spectrogram 1	1	Nyctidromus_albicollis	31.093333333	31.392	1429.6875	2250.0	0
-20	Spectrogram 1	1	Nyctidromus_albicollis	32.330666667	32.821333333	1148.4375	2507.8125	0
-21	Spectrogram 1	1	Nyctidromus_albicollis	33.856	34.154666667	1429.6875	2320.3125	0
-22	Spectrogram 1	1	Nyctidromus_albicollis	35.392	35.850666667	1171.875	2484.375	0
-23	Spectrogram 1	1	Nyctidromus_albicollis	36.853333333	37.173333333	1148.4375	2296.875	0
-24	Spectrogram 1	1	Nyctidromus_albicollis	38.464	38.869333333	1171.875	2601.5625	0
-25	Spectrogram 1	1	Nyctidromus_albicollis	39.733333333	40.021333333	1335.9375	2835.9375	1
-26	Spectrogram 1	1	Nyctidromus_albicollis	41.216	41.525333333	1242.1875	2554.6875	0
-27	Spectrogram 1	1	Nyctidromus_albicollis	41.738666667	42.24	1148.4375	2554.6875	0
-28	Spectrogram 1	1	Nyctidromus_albicollis	43.242666667	43.573333333	1148.4375	2414.0625	0
-29	Spectrogram 1	1	Nyctidromus_albicollis	49.824	50.122666667	1125.0	2273.4375	0
-30	Spectrogram 1	1	Nyctidromus_albicollis	51.701333333	52.245333333	1054.6875	2601.5625	0
-31	Spectrogram 1	1	Nyctidromus_albicollis	54.165333333	54.474666667	1054.6875	2203.125	0
-32	Spectrogram 1	1	Nyctidromus_albicollis	54.613333333	55.082666667	1265.625	2531.25	0
-33	Spectrogram 1	1	Nyctidromus_albicollis	56.245333333	56.522666667	1148.4375	2320.3125	0
-34	Spectrogram 1	1	Nyctidromus_albicollis	57.696	58.186666667	1265.625	2531.25	0
-35	Spectrogram 1	1	Nyctidromus_albicollis	58.474666667	58.741333333	1476.5625	2367.1875	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Nyctidromus_albicollis	0.906666667	1.226666667	1429.6875	2531.25	10472	0
+2	Spectrogram 1	1	Nyctidromus_albicollis	3.168	3.445333333	1476.5625	2484.375	10490	0
+3	Spectrogram 1	1	Nyctidromus_albicollis	5.664	5.952	1476.5625	2437.5	10519	0
+4	Spectrogram 1	1	Nyctidromus_albicollis	6.528	6.997333333	1171.875	2507.8125	10528	0
+5	Spectrogram 1	1	Nyctidromus_albicollis	7.850666667	8.170666667	1195.3125	2367.1875	10538	0
+6	Spectrogram 1	1	Nyctidromus_albicollis	9.952	10.218666667	1382.8125	2320.3125	10558	0
+7	Spectrogram 1	1	Nyctidromus_albicollis	10.485333333	10.986666667	1171.875	2437.5	10566	1
+8	Spectrogram 1	1	Nyctidromus_albicollis	12.469333333	12.768	1429.6875	2390.625	10588	0
+9	Spectrogram 1	1	Nyctidromus_albicollis	14.144	14.613333333	1195.3125	2507.8125	10599	0
+10	Spectrogram 1	1	Nyctidromus_albicollis	15.242666667	15.541333333	1476.5625	2367.1875	10608	0
+11	Spectrogram 1	1	Nyctidromus_albicollis	17.578666667	17.877333333	1500.0	2273.4375	10627	0
+12	Spectrogram 1	1	Nyctidromus_albicollis	18.101333333	18.592	1171.875	2601.5625	10632	0
+13	Spectrogram 1	1	Nyctidromus_albicollis	20.426666667	20.725333333	1312.5	2296.875	10645	0
+14	Spectrogram 1	1	Nyctidromus_albicollis	22.005333333	22.517333333	1148.4375	2554.6875	10652	0
+15	Spectrogram 1	1	Nyctidromus_albicollis	23.264	23.562666667	1335.9375	2273.4375	10662	0
+16	Spectrogram 1	1	Nyctidromus_albicollis	25.237333333	26.048	1125.0	2601.5625	10672	0
+17	Spectrogram 1	1	Nyctidromus_albicollis	28.512	28.789333333	1453.125	2296.875	10689	0
+18	Spectrogram 1	1	Nyctidromus_albicollis	29.461333333	29.930666667	1171.875	2812.5	10698	0
+19	Spectrogram 1	1	Nyctidromus_albicollis	31.093333333	31.392	1429.6875	2250.0	10711	0
+20	Spectrogram 1	1	Nyctidromus_albicollis	32.330666667	32.821333333	1148.4375	2507.8125	10721	0
+21	Spectrogram 1	1	Nyctidromus_albicollis	33.856	34.154666667	1429.6875	2320.3125	10733	0
+22	Spectrogram 1	1	Nyctidromus_albicollis	35.392	35.850666667	1171.875	2484.375	10736	0
+23	Spectrogram 1	1	Nyctidromus_albicollis	36.853333333	37.173333333	1148.4375	2296.875	10738	0
+24	Spectrogram 1	1	Nyctidromus_albicollis	38.464	38.869333333	1171.875	2601.5625	10742	0
+25	Spectrogram 1	1	Nyctidromus_albicollis	39.733333333	40.021333333	1335.9375	2835.9375	10745	1
+26	Spectrogram 1	1	Nyctidromus_albicollis	41.216	41.525333333	1242.1875	2554.6875	10749	0
+27	Spectrogram 1	1	Nyctidromus_albicollis	41.738666667	42.24	1148.4375	2554.6875	10751	0
+28	Spectrogram 1	1	Nyctidromus_albicollis	43.242666667	43.573333333	1148.4375	2414.0625	10755	0
+29	Spectrogram 1	1	Nyctidromus_albicollis	49.824	50.122666667	1125.0	2273.4375	10785	0
+30	Spectrogram 1	1	Nyctidromus_albicollis	51.701333333	52.245333333	1054.6875	2601.5625	10795	0
+31	Spectrogram 1	1	Nyctidromus_albicollis	54.165333333	54.474666667	1054.6875	2203.125	10816	1
+32	Spectrogram 1	1	Nyctidromus_albicollis	54.613333333	55.082666667	1265.625	2531.25	10821	0
+33	Spectrogram 1	1	Nyctidromus_albicollis	56.245333333	56.522666667	1148.4375	2320.3125	10834	0
+34	Spectrogram 1	1	Nyctidromus_albicollis	57.696	58.186666667	1265.625	2531.25	10846	0
+35	Spectrogram 1	1	Nyctidromus_albicollis	58.474666667	58.741333333	1476.5625	2367.1875	10851	0

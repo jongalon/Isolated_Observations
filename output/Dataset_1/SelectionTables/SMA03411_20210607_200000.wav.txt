@@ -1,41 +1,41 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Dendropsophus_microcephalus	0.010666667	0.373333333	3679.6875	4265.625	0
-2	Spectrogram 1	1	Dendropsophus_microcephalus	1.216	1.589333333	3656.25	3960.9375	0
-3	Spectrogram 1	1	Dendropsophus_microcephalus	2.4	2.88	3656.25	4265.625	0
-4	Spectrogram 1	1	Dendropsophus_microcephalus	3.637333333	3.893333333	3632.8125	4242.1875	0
-5	Spectrogram 1	1	Dendropsophus_microcephalus	4.928	5.226666667	3656.25	4359.375	0
-6	Spectrogram 1	1	Dendropsophus_microcephalus	5.92	6.421333333	3656.25	4218.75	0
-7	Spectrogram 1	1	Dendropsophus_microcephalus	8.896	9.205333333	3656.25	4265.625	0
-8	Spectrogram 1	1	Dendropsophus_microcephalus	10.058666667	10.421333333	3304.6875	4335.9375	0
-9	Spectrogram 1	1	Dendropsophus_microcephalus	11.765333333	12.213333333	3328.125	3984.375	0
-10	Spectrogram 1	1	Dendropsophus_microcephalus	13.472	13.738666667	3656.25	4359.375	1
-11	Spectrogram 1	1	Dendropsophus_microcephalus	14.474666667	14.805333333	3656.25	4242.1875	0
-12	Spectrogram 1	1	Dendropsophus_microcephalus	15.669333333	15.968	3656.25	3960.9375	0
-13	Spectrogram 1	1	Dendropsophus_microcephalus	16.981333333	17.344	3656.25	4265.625	0
-14	Spectrogram 1	1	Dendropsophus_microcephalus	19.850666667	20.149333333	3656.25	4289.0625	0
-15	Spectrogram 1	1	Dendropsophus_microcephalus	22.464	22.762666667	3328.125	4265.625	0
-16	Spectrogram 1	1	Dendropsophus_microcephalus	23.498666667	23.818666667	3656.25	4242.1875	0
-17	Spectrogram 1	1	Dendropsophus_microcephalus	24.650666667	24.949333333	3679.6875	4382.8125	0
-18	Spectrogram 1	1	Dendropsophus_microcephalus	25.706666667	26.08	3328.125	4359.375	0
-19	Spectrogram 1	1	Dendropsophus_microcephalus	26.954666667	27.306666667	3679.6875	4500.0	0
-20	Spectrogram 1	1	Dendropsophus_microcephalus	28.352	28.746666667	3656.25	4453.125	0
-21	Spectrogram 1	1	Dendropsophus_microcephalus	29.685333333	30.112	3656.25	4312.5	1
-22	Spectrogram 1	1	Dendropsophus_microcephalus	33.728	34.101333333	2976.5625	3984.375	0
-23	Spectrogram 1	1	Dendropsophus_microcephalus	34.922666667	35.274666667	3328.125	4335.9375	0
-24	Spectrogram 1	1	Dendropsophus_microcephalus	36.074666667	36.416	3328.125	4335.9375	0
-25	Spectrogram 1	1	Dendropsophus_microcephalus	37.194666667	37.610666667	3304.6875	4406.25	0
-26	Spectrogram 1	1	Dendropsophus_microcephalus	38.56	38.912	3656.25	4312.5	0
-27	Spectrogram 1	1	Dendropsophus_microcephalus	39.872	40.16	3656.25	4289.0625	0
-28	Spectrogram 1	1	Dendropsophus_microcephalus	40.885333333	41.301333333	3656.25	3960.9375	0
-29	Spectrogram 1	1	Dendropsophus_microcephalus	43.904	44.277333333	3656.25	4265.625	0
-30	Spectrogram 1	1	Dendropsophus_microcephalus	45.034666667	45.376	3328.125	4312.5	0
-31	Spectrogram 1	1	Dendropsophus_microcephalus	46.133333333	46.517333333	3656.25	4335.9375	0
-32	Spectrogram 1	1	Dendropsophus_microcephalus	47.392	47.786666667	3656.25	4312.5	0
-33	Spectrogram 1	1	Dendropsophus_microcephalus	48.789333333	49.098666667	3656.25	4312.5	0
-34	Spectrogram 1	1	Dendropsophus_microcephalus	50.058666667	50.378666667	3656.25	4312.5	0
-35	Spectrogram 1	1	Dendropsophus_microcephalus	51.136	51.498666667	3656.25	4453.125	0
-36	Spectrogram 1	1	Dendropsophus_microcephalus	52.373333333	52.778666667	3679.6875	4382.8125	0
-37	Spectrogram 1	1	Dendropsophus_microcephalus	53.493333333	53.888	3679.6875	4265.625	0
-38	Spectrogram 1	1	Dendropsophus_microcephalus	54.624	55.050666667	3375.0	4312.5	0
-39	Spectrogram 1	1	Dendropsophus_microcephalus	56.330666667	56.586666667	3656.25	4312.5	0
-40	Spectrogram 1	1	Dendropsophus_microcephalus	57.472	57.824	3656.25	4312.5	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Dendropsophus_microcephalus	0.010666667	0.373333333	3679.6875	4265.625	6428	0
+2	Spectrogram 1	1	Dendropsophus_microcephalus	1.216	1.589333333	3656.25	3960.9375	6430	0
+3	Spectrogram 1	1	Dendropsophus_microcephalus	2.4	2.88	3656.25	4265.625	6432	0
+4	Spectrogram 1	1	Dendropsophus_microcephalus	3.637333333	3.893333333	3632.8125	4242.1875	6434	0
+5	Spectrogram 1	1	Dendropsophus_microcephalus	4.928	5.226666667	3656.25	4359.375	6437	0
+6	Spectrogram 1	1	Dendropsophus_microcephalus	5.92	6.421333333	3656.25	4218.75	6438	0
+7	Spectrogram 1	1	Dendropsophus_microcephalus	8.896	9.205333333	3656.25	4265.625	6442	0
+8	Spectrogram 1	1	Dendropsophus_microcephalus	10.058666667	10.421333333	3304.6875	4335.9375	6444	0
+9	Spectrogram 1	1	Dendropsophus_microcephalus	11.765333333	12.213333333	3328.125	3984.375	6447	0
+10	Spectrogram 1	1	Dendropsophus_microcephalus	13.472	13.738666667	3656.25	4359.375	6449	1
+11	Spectrogram 1	1	Dendropsophus_microcephalus	14.474666667	14.805333333	3656.25	4242.1875	6450	0
+12	Spectrogram 1	1	Dendropsophus_microcephalus	15.669333333	15.968	3656.25	3960.9375	6451	0
+13	Spectrogram 1	1	Dendropsophus_microcephalus	16.981333333	17.344	3656.25	4265.625	6453	0
+14	Spectrogram 1	1	Dendropsophus_microcephalus	19.850666667	20.149333333	3656.25	4289.0625	6455	0
+15	Spectrogram 1	1	Dendropsophus_microcephalus	22.464	22.762666667	3328.125	4265.625	6457	0
+16	Spectrogram 1	1	Dendropsophus_microcephalus	23.498666667	23.818666667	3656.25	4242.1875	6458	0
+17	Spectrogram 1	1	Dendropsophus_microcephalus	24.650666667	24.949333333	3679.6875	4382.8125	6460	0
+18	Spectrogram 1	1	Dendropsophus_microcephalus	25.706666667	26.08	3328.125	4359.375	6461	0
+19	Spectrogram 1	1	Dendropsophus_microcephalus	26.954666667	27.306666667	3679.6875	4500.0	6463	0
+20	Spectrogram 1	1	Dendropsophus_microcephalus	28.352	28.746666667	3656.25	4453.125	6464	0
+21	Spectrogram 1	1	Dendropsophus_microcephalus	29.685333333	30.112	3656.25	4312.5	6467	0
+22	Spectrogram 1	1	Dendropsophus_microcephalus	33.728	34.101333333	2976.5625	3984.375	6473	0
+23	Spectrogram 1	1	Dendropsophus_microcephalus	34.922666667	35.274666667	3328.125	4335.9375	6477	0
+24	Spectrogram 1	1	Dendropsophus_microcephalus	36.074666667	36.416	3328.125	4335.9375	6478	0
+25	Spectrogram 1	1	Dendropsophus_microcephalus	37.194666667	37.610666667	3304.6875	4406.25	6482	0
+26	Spectrogram 1	1	Dendropsophus_microcephalus	38.56	38.912	3656.25	4312.5	6485	0
+27	Spectrogram 1	1	Dendropsophus_microcephalus	39.872	40.16	3656.25	4289.0625	6488	0
+28	Spectrogram 1	1	Dendropsophus_microcephalus	40.885333333	41.301333333	3656.25	3960.9375	6489	0
+29	Spectrogram 1	1	Dendropsophus_microcephalus	43.904	44.277333333	3656.25	4265.625	6493	0
+30	Spectrogram 1	1	Dendropsophus_microcephalus	45.034666667	45.376	3328.125	4312.5	6495	0
+31	Spectrogram 1	1	Dendropsophus_microcephalus	46.133333333	46.517333333	3656.25	4335.9375	6500	0
+32	Spectrogram 1	1	Dendropsophus_microcephalus	47.392	47.786666667	3656.25	4312.5	6502	0
+33	Spectrogram 1	1	Dendropsophus_microcephalus	48.789333333	49.098666667	3656.25	4312.5	6507	0
+34	Spectrogram 1	1	Dendropsophus_microcephalus	50.058666667	50.378666667	3656.25	4312.5	6509	0
+35	Spectrogram 1	1	Dendropsophus_microcephalus	51.136	51.498666667	3656.25	4453.125	6511	0
+36	Spectrogram 1	1	Dendropsophus_microcephalus	52.373333333	52.778666667	3679.6875	4382.8125	6513	0
+37	Spectrogram 1	1	Dendropsophus_microcephalus	53.493333333	53.888	3679.6875	4265.625	6516	0
+38	Spectrogram 1	1	Dendropsophus_microcephalus	54.624	55.050666667	3375.0	4312.5	6517	0
+39	Spectrogram 1	1	Dendropsophus_microcephalus	56.330666667	56.586666667	3656.25	4312.5	6519	0
+40	Spectrogram 1	1	Dendropsophus_microcephalus	57.472	57.824	3656.25	4312.5	6520	0

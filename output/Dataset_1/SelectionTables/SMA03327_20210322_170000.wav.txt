@@ -1,2 +1,2 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Patagioenas_cayennensis	25.418666667	25.770666667	210.9375	820.3125	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Patagioenas_cayennensis	25.418666667	25.770666667	210.9375	820.3125	11179	1

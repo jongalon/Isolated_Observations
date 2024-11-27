@@ -1,44 +1,44 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	Leptodactylus_fuscus	0.010666667	0.181333333	3984.375	4757.8125	0
-2	Spectrogram 1	1	Leptodactylus_fuscus	0.896	1.109333333	3750.0	4617.1875	0
-3	Spectrogram 1	1	Leptodactylus_fuscus	2.261333333	2.677333333	3750.0	4828.125	0
-4	Spectrogram 1	1	Leptodactylus_fuscus	3.061333333	3.296	3703.125	4804.6875	0
-5	Spectrogram 1	1	Leptodactylus_fuscus	4.650666667	5.077333333	3773.4375	5296.875	0
-6	Spectrogram 1	1	Leptodactylus_fuscus	5.525333333	5.888	3632.8125	4781.25	0
-7	Spectrogram 1	1	Patagioenas_cayennensis	6.026666667	6.837333333	187.5	5835.9375	0
-8	Spectrogram 1	1	Leptodactylus_fuscus	7.114666667	7.381333333	3867.1875	4875.0	0
-9	Spectrogram 1	1	Leptodactylus_fuscus	7.637333333	7.861333333	3750.0	4687.5	0
-10	Spectrogram 1	1	Leptodactylus_fuscus	9.12	9.354666667	3867.1875	4781.25	0
-11	Spectrogram 1	1	Leptodactylus_fuscus	9.792	10.026666667	3750.0	4640.625	0
-12	Spectrogram 1	1	Leptodactylus_fuscus	11.264	11.488	4031.25	4781.25	0
-13	Spectrogram 1	1	Leptodactylus_fuscus	11.936	12.16	3703.125	4710.9375	0
-14	Spectrogram 1	1	Leptodactylus_fuscus	13.546666667	13.792	3984.375	4734.375	0
-15	Spectrogram 1	1	Leptodactylus_fuscus	14.176	14.4	3773.4375	4734.375	0
-16	Spectrogram 1	1	Leptodactylus_fuscus	15.712	16.0	3843.75	4804.6875	0
-17	Spectrogram 1	1	Leptodactylus_fuscus	16.576	16.789333333	3750.0	4687.5	0
-18	Spectrogram 1	1	Leptodactylus_fuscus	17.973333333	18.218666667	3984.375	4804.6875	0
-19	Spectrogram 1	1	Leptodactylus_fuscus	18.805333333	19.061333333	3703.125	4640.625	0
-20	Spectrogram 1	1	Leptodactylus_fuscus	20.106666667	20.352	3960.9375	4734.375	0
-21	Spectrogram 1	1	Patagioenas_cayennensis	21.770666667	22.645333333	492.1875	5859.375	0
-22	Spectrogram 1	1	Leptodactylus_fuscus	22.762666667	23.157333333	3937.5	4898.4375	0
-23	Spectrogram 1	1	Leptodactylus_fuscus	24.832	25.034666667	10054.6875	11906.25	0
-24	Spectrogram 1	1	Leptodactylus_fuscus	24.832	25.301333333	3867.1875	4898.4375	0
-25	Spectrogram 1	1	Leptodactylus_fuscus	26.08	26.4	3750.0	4640.625	0
-26	Spectrogram 1	1	Patagioenas_cayennensis	27.530666667	28.16	375.0	703.125	0
-27	Spectrogram 1	1	Leptodactylus_fuscus	28.298666667	28.554666667	3750.0	4687.5	0
-28	Spectrogram 1	1	Leptodactylus_fuscus	29.525333333	30.037333333	3960.9375	4828.125	0
-29	Spectrogram 1	1	Patagioenas_cayennensis	32.778666667	33.12	539.0625	843.75	0
-30	Spectrogram 1	1	Leptodactylus_fuscus	32.821333333	33.269333333	3703.125	5320.3125	0
-31	Spectrogram 1	1	Leptodactylus_fuscus	33.6	34.197333333	3960.9375	5343.75	0
-32	Spectrogram 1	1	Patagioenas_cayennensis	34.304	34.826666667	398.4375	796.875	0
-33	Spectrogram 1	1	Leptodactylus_fuscus	35.957333333	36.405333333	3726.5625	5390.625	0
-34	Spectrogram 1	1	Leptodactylus_fuscus	37.973333333	38.218666667	3914.0625	4804.6875	0
-35	Spectrogram 1	1	Patagioenas_cayennensis	38.08	38.954666667	351.5625	726.5625	0
-36	Spectrogram 1	1	Leptodactylus_fuscus	42.325333333	42.581333333	3960.9375	4781.25	0
-37	Spectrogram 1	1	Leptodactylus_fuscus	44.565333333	45.056	3960.9375	5226.5625	0
-38	Spectrogram 1	1	Leptodactylus_fuscus	46.357333333	46.890666667	3726.5625	5460.9375	0
-39	Spectrogram 1	1	Leptodactylus_fuscus	50.773333333	51.050666667	3773.4375	4921.875	0
-40	Spectrogram 1	1	Patagioenas_cayennensis	51.968	52.469333333	375.0	703.125	0
-41	Spectrogram 1	1	Leptodactylus_fuscus	55.242666667	55.594666667	3820.3125	4757.8125	0
-42	Spectrogram 1	1	Patagioenas_cayennensis	55.253333333	55.712	468.75	843.75	0
-43	Spectrogram 1	1	Leptodactylus_fuscus	57.365333333	57.696	3867.1875	4781.25	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	0.010666667	0.181333333	3984.375	4757.8125	4944	0
+2	Spectrogram 1	1	Leptodactylus_fuscus	0.896	1.109333333	3750.0	4617.1875	4945	0
+3	Spectrogram 1	1	Leptodactylus_fuscus	2.261333333	2.677333333	3750.0	4828.125	4948	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	3.061333333	3.296	3703.125	4804.6875	4950	0
+5	Spectrogram 1	1	Leptodactylus_fuscus	4.650666667	5.077333333	3773.4375	5296.875	4955	0
+6	Spectrogram 1	1	Leptodactylus_fuscus	5.525333333	5.888	3632.8125	4781.25	4956	0
+7	Spectrogram 1	1	Patagioenas_cayennensis	6.026666667	6.837333333	187.5	5835.9375	4958	1
+8	Spectrogram 1	1	Leptodactylus_fuscus	7.114666667	7.381333333	3867.1875	4875.0	4960	0
+9	Spectrogram 1	1	Leptodactylus_fuscus	7.637333333	7.861333333	3750.0	4687.5	4962	0
+10	Spectrogram 1	1	Leptodactylus_fuscus	9.12	9.354666667	3867.1875	4781.25	4967	0
+11	Spectrogram 1	1	Leptodactylus_fuscus	9.792	10.026666667	3750.0	4640.625	4968	0
+12	Spectrogram 1	1	Leptodactylus_fuscus	11.264	11.488	4031.25	4781.25	4971	0
+13	Spectrogram 1	1	Leptodactylus_fuscus	11.936	12.16	3703.125	4710.9375	4972	0
+14	Spectrogram 1	1	Leptodactylus_fuscus	13.546666667	13.792	3984.375	4734.375	4976	0
+15	Spectrogram 1	1	Leptodactylus_fuscus	14.176	14.4	3773.4375	4734.375	4978	0
+16	Spectrogram 1	1	Leptodactylus_fuscus	15.712	16.0	3843.75	4804.6875	4979	0
+17	Spectrogram 1	1	Leptodactylus_fuscus	16.576	16.789333333	3750.0	4687.5	4982	0
+18	Spectrogram 1	1	Leptodactylus_fuscus	17.973333333	18.218666667	3984.375	4804.6875	4985	0
+19	Spectrogram 1	1	Leptodactylus_fuscus	18.805333333	19.061333333	3703.125	4640.625	4988	0
+20	Spectrogram 1	1	Leptodactylus_fuscus	20.106666667	20.352	3960.9375	4734.375	4993	0
+21	Spectrogram 1	1	Patagioenas_cayennensis	21.770666667	22.645333333	492.1875	5859.375	4999	1
+22	Spectrogram 1	1	Leptodactylus_fuscus	22.762666667	23.157333333	3937.5	4898.4375	5002	0
+23	Spectrogram 1	1	Leptodactylus_fuscus	24.832	25.034666667	10054.6875	11906.25	5008	0
+24	Spectrogram 1	1	Leptodactylus_fuscus	24.832	25.301333333	3867.1875	4898.4375	5010	0
+25	Spectrogram 1	1	Leptodactylus_fuscus	26.08	26.4	3750.0	4640.625	5012	0
+26	Spectrogram 1	1	Patagioenas_cayennensis	27.530666667	28.16	375.0	703.125	5018	0
+27	Spectrogram 1	1	Leptodactylus_fuscus	28.298666667	28.554666667	3750.0	4687.5	5020	0
+28	Spectrogram 1	1	Leptodactylus_fuscus	29.525333333	30.037333333	3960.9375	4828.125	5024	0
+29	Spectrogram 1	1	Patagioenas_cayennensis	32.778666667	33.12	539.0625	843.75	5032	0
+30	Spectrogram 1	1	Leptodactylus_fuscus	32.821333333	33.269333333	3703.125	5320.3125	5033	0
+31	Spectrogram 1	1	Leptodactylus_fuscus	33.6	34.197333333	3960.9375	5343.75	5035	0
+32	Spectrogram 1	1	Patagioenas_cayennensis	34.304	34.826666667	398.4375	796.875	5036	0
+33	Spectrogram 1	1	Leptodactylus_fuscus	35.957333333	36.405333333	3726.5625	5390.625	5042	0
+34	Spectrogram 1	1	Leptodactylus_fuscus	37.973333333	38.218666667	3914.0625	4804.6875	5048	0
+35	Spectrogram 1	1	Patagioenas_cayennensis	38.08	38.954666667	351.5625	726.5625	5049	0
+36	Spectrogram 1	1	Leptodactylus_fuscus	42.325333333	42.581333333	3960.9375	4781.25	5059	0
+37	Spectrogram 1	1	Leptodactylus_fuscus	44.565333333	45.056	3960.9375	5226.5625	5064	0
+38	Spectrogram 1	1	Leptodactylus_fuscus	46.357333333	46.890666667	3726.5625	5460.9375	5069	1
+39	Spectrogram 1	1	Leptodactylus_fuscus	50.773333333	51.050666667	3773.4375	4921.875	5079	0
+40	Spectrogram 1	1	Patagioenas_cayennensis	51.968	52.469333333	375.0	703.125	5082	0
+41	Spectrogram 1	1	Leptodactylus_fuscus	55.242666667	55.594666667	3820.3125	4757.8125	5088	0
+42	Spectrogram 1	1	Patagioenas_cayennensis	55.253333333	55.712	468.75	843.75	5089	0
+43	Spectrogram 1	1	Leptodactylus_fuscus	57.365333333	57.696	3867.1875	4781.25	5096	0

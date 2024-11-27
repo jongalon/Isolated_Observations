@@ -1,4 +1,4 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	FUSC	20.4	22.399000000000022	20.4	3000	0
-2	Spectrogram 1	1	FUSC	36.0	37.999000000000024	36.0	3000	0
-3	Spectrogram 1	1	FUSC	37.2	39.19899999999991	37.2	3000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	37.2	39.19899999999991	37.2	3000	962	0
+2	Spectrogram 1	1	Leptodactylus_fuscus	36.0	37.999000000000024	36.0	3000	961	0
+3	Spectrogram 1	1	Leptodactylus_fuscus	20.4	22.399000000000022	20.4	3000	960	0

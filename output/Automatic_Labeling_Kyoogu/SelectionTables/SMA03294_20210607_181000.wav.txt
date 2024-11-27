@@ -1,11 +1,11 @@
-Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	review
-1	Spectrogram 1	1	DEND	21.6	23.59899999999997	21.6	7200	0
-2	Spectrogram 1	1	FUSC	2.4	4.399	2.4	3000	0
-3	Spectrogram 1	1	FUSC	5.6	7.599	5.6	3000	1
-4	Spectrogram 1	1	FUSC	20.0	22.399	20.0	3000	0
-5	Spectrogram 1	1	FUSC	21.2	23.599	21.2	3000	0
-6	Spectrogram 1	1	FUSC	24.4	26.799	24.4	3000	0
-7	Spectrogram 1	1	FUSC	48.8	52.399	48.8	3000	0
-8	Spectrogram 1	1	FUSC	53.2	55.199	53.2	3000	0
-9	Spectrogram 1	1	FUSC	56.0	57.999	56.0	3000	0
-10	Spectrogram 1	1	FUSC	56.8	59.999	56.8	3000	0
+Selection	View	Channel	Specie ID	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Original Index	review
+1	Spectrogram 1	1	Leptodactylus_fuscus	56.0	57.999	56.0	3000	869	0
+2	Spectrogram 1	1	Leptodactylus_fuscus	21.2	23.599	21.2	3000	865	0
+3	Spectrogram 1	1	Dendropsophus_microcephalus	21.6	23.59899999999997	21.6	7200	453	0
+4	Spectrogram 1	1	Leptodactylus_fuscus	56.8	59.999	56.8	3000	870	0
+5	Spectrogram 1	1	Leptodactylus_fuscus	53.2	55.199	53.2	3000	868	1
+6	Spectrogram 1	1	Leptodactylus_fuscus	48.8	52.399	48.8	3000	867	0
+7	Spectrogram 1	1	Leptodactylus_fuscus	24.4	26.799	24.4	3000	866	0
+8	Spectrogram 1	1	Leptodactylus_fuscus	2.4	4.399	2.4	3000	862	0
+9	Spectrogram 1	1	Leptodactylus_fuscus	20.0	22.399	20.0	3000	864	0
+10	Spectrogram 1	1	Leptodactylus_fuscus	5.6	7.599	5.6	3000	863	0
