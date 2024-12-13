@@ -1,4 +1,4 @@
-# Isolated Observations
+# Project description
 
 This project provides methods and tools for efficiently detecting potentially mislabeled and misclassified audio segments in PAM bioacoustic datasets. It enables experts to review flagged segments and take corrective actions, improving the overall quality of species vocalization detection and classification models.
 
