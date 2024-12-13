@@ -50,9 +50,11 @@ def extract_features(path, start, end, sr=None, freq_range=(0, np.inf)):
         spectral_flatness = np.nanmean(spectral_flatness)
         
         features = {
-            'spectral_centroid': spectral_centroid,
-            'bandwidth': spectral_bandwidth,
-            'spectral_flatness': spectral_flatness
+            'SpectralCentroid': spectral_centroid,
+            'Bandwidth': spectral_bandwidth,
+            'SpectralFlatness': spectral_flatness,
+            'Length': (end -start),
+            'DeltaFreq': (max_freq - min_freq)
         }
 
     except Exception as e:
