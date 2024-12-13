@@ -1,22 +1,23 @@
 # Isolated Observations
 
-This project provides methods and tools for analyzing and detecting isolated labeled observations of vocalizations in bioacoustic audio data. It focuses on identifying latent variables and performing hierarchical clustering to better understand the structure of the data.
+This project provides methods and tools for efficiently detecting potentially mislabeled and misclassified audio segments in PAM bioacoustic datasets. It enables experts to review flagged segments and take corrective actions, improving the overall quality of species vocalization detection and classification models.
+
+By focusing on feature extraction, latent variable identification, and hierarchical clustering, the project isolates segments that deviate from others with the same label. This refinement supports human oversight by reducing false automated labeling, making targeted reviews more efficient.
 
 ## Project Structure
 
-- **notebooks/**: Contains Jupyter notebooks used in the project.
-  - `Find_Latent_Variables_NoCommunalities.ipynb`: Identifies latent variables without considering communalities.
-  - `FindIsolatedObservations.ipynb`: Detects isolated observations in the dataset.
-  - `Create_Selection_Table_from_Isolated.ipynb`: Creates a selection table for reviewing isolated observations.
-- **src/**: Contains the modularized project code with data processing, modeling, and visualization functions.
-- **data/**: Directory for storing data files. It contains selection tables from RAVEN for three subsets with the calculated features. One of the subsets was obtained from an automatically labeled dataset using KOOGU.
-- **tests/**: Contains unit tests to verify code functionality and ensure reliability.
-- **audios/**: Contains the audio files used for this project. Dataset 1 is used for subsets A and C, while Dataset 2 is used for subset B.
-- **output/**: Contains the results per Subset, including:
-  - The list of isolated observations in `.xlsx` format.
-  - All labeled data with flagged observations for review.
-  - Selection tables for each audio, including a column for review.
-  - A combined selection table for use within RAVEN, allowing all audios to be reviewed in a single session.
+- **notebooks/**: Contains Jupyter notebooks and Matlab scripts used in the project.
+  - `1_ExtractFeatures_fromSelectionTables.m`:  Extracts linear cepstral coefficients using MATLAB.
+  - `2_Find_Latent_Variables.ipynb`: Performs dimensionality reduction and identifies latent variables.
+  - `3_FindIsolatedObservations.ipynb`:Detects isolated observations and evaluates model performance.
+  - `Create_Selection_Table_from_Isolated.ipynb`: Creates selection tables in RAVEN format for reviewing isolated observations.
+- **src/**: Modularized code for data processing, modeling, and visualization.
+- **data/**: Contains input data, including selection tables and calculated features for subsets derived from datasets.
+- **audios/**: Includes audio files used in the analysis. Dataset 1 corresponds to subsets A and C, and Dataset 2 to subset B.
+- **output/**: Stores results:
+  - Lists of isolated observations (`.xlsx` format).
+  - Flagged observations in labeled data.
+  - Selection tables for individual and combined review sessions in RAVEN.
 
 ## Installation
 
@@ -35,14 +36,19 @@ This project provides methods and tools for analyzing and detecting isolated lab
    pip install -r requirements.txt
    ```
 
+3. MATLAB setup:
+   Make sure MATLAB is installed to run the script `1_ExtractFeatures_fromSelectionTables.m`. 
+
 ## Usage
 
-- Place the data files in the `data/` folder.
-- Run the notebooks in the `notebooks/` folder to explore and analyze the data. It is recommended to follow this order:
-  1. `Find_Latent_Variables_NoCommunalities.ipynb`
-  2. `FindIsolatedObservations.ipynb`
-  3. `Create_Selection_Table_from_Isolated.ipynb`
-- Use the functions in `src/` for specific analyses or to integrate them into other projects.
+1. Place your data files in the `data/` folder.
+2. Follow these steps for analysis:
+   - Run `1_ExtractFeatures_fromSelectionTables.m` in MATLAB.
+   - Execute the Jupyter notebooks in this order:
+     1. `2_Find_Latent_Variables.ipynb`
+     2. `3_FindIsolatedObservations.ipynb`
+     3. `Create_Selection_Table_from_Isolated.ipynb`
+3. Review flagged observations using the output in the `output/` folder or directly in RAVEN.
 
 ## Contributions
 
@@ -54,7 +60,3 @@ If you would like to contribute, please follow these steps:
 Contributions are always welcome, and we appreciate any help in improving the project!
 
 ## Author
-
-Jonathan Gallego Londoño  
-PhD Student in Electronic and Computer Engineering  
-Universidad de Antioquia
