@@ -59,4 +59,3 @@ If you would like to contribute, please follow these steps:
 
 Contributions are always welcome, and we appreciate any help in improving the project!
 
-## Author
