@@ -4,6 +4,108 @@ import numpy as np
 import librosa 
 from scipy import signal
 
+def custom_spectrogram(signal, fs, window_size, hop_size, nfft):
+    """
+    Custom spectrogram function based on short-time Fourier transform (STFT).
+    
+    Parameters:
+        signal (array): Audio signal.
+        fs (int): Sampling frequency.
+        window_size (int): Size of the analysis window.
+        hop_size (int): Step size between windows.
+        nfft (int): Number of points for FFT.
+
+    Returns:
+        S (2D array): Spectrogram (magnitude).
+        f (array): Frequency values.
+        t (array): Time values.
+    """
+
+    # Handle mono and stereo audio
+    if len(signal.shape) == 2:
+        signal = signal[0, :]  # Use the first channel if stereo
+
+    # Calculate the number of segments
+    num_segments = (len(signal) - window_size) // hop_size + 1
+    
+    # Create a Hann window
+    window = np.hanning(window_size)
+    
+    # Initialize the spectrogram matrix
+    S = np.zeros((nfft // 2 + 1, num_segments))
+    
+    # Perform the STFT
+    for i in range(num_segments):
+        start_idx = i * hop_size
+        end_idx = start_idx + window_size
+        segment = signal[start_idx:end_idx] * window
+        fft_segment = np.fft.rfft(segment, nfft)
+        S[:, i] = np.abs(fft_segment)
+    
+    # Calculate frequency and time scales
+    f = np.linspace(0, fs / 2, nfft // 2 + 1)
+    t = np.arange(0, num_segments * hop_size, hop_size) / fs
+    
+    return S, f, t
+
+
+# Final FCC function adjusted to match MATLAB 
+
+def FCC(segment, num_filters, num_coefficients, num_frames):
+    """
+    Calculates the Frequency Cepstral Coefficients (FCC) for a spectrogram segment.
+
+    :param segment: np.ndarray
+        Spectrogram segment (frequencies x time).
+    :param num_filters: int
+        Number of Gaussian filters to divide the frequency range.
+    :param num_coefficients: int
+        Number of cepstral coefficients to compute.
+    :param num_frames: int
+        Number of temporal divisions for the segment.
+    :return: np.ndarray
+        Matrix of FCC coefficients.
+    """
+    # Get the dimensions of the segment
+    num_frequencies, num_time_bins = segment.shape
+
+    # Divide the spectrogram into temporal segments
+    frame_width = int(np.floor(num_time_bins / num_frames))
+    B = np.zeros((num_frequencies, num_frames), dtype=np.float64)
+
+    for frame in range(num_frames):
+        start_idx = frame * frame_width
+        end_idx = min(start_idx + frame_width, num_time_bins)
+        segment_energy = segment[:, start_idx:end_idx]
+        B[:, frame] = np.sum(segment_energy**2, axis=1)
+
+    # Create the Gaussian filters
+    if num_frequencies >= num_filters:
+        H = np.zeros((num_filters, num_frequencies), dtype=np.float64)
+        filter_width = num_frequencies // num_filters
+
+        for i in range(num_filters):
+            center = i * filter_width + (filter_width - 1)
+            sigma = filter_width / 4
+            H[i, :] = np.exp(-0.5 * ((np.arange(num_frequencies) - center) / sigma) ** 2)
+
+    # Compute the Filtered Band Energy (FBE)
+    FBE = np.dot(H, B)
+
+    # Generate the Discrete Cosine Transform (DCT) matrix
+    def dct_matrix(N, M):
+        return np.sqrt(2.0 / M) * np.cos(
+            np.outer(np.arange(N, dtype=np.float64), (np.arange(M) + 0.5) * np.pi / M)
+        )
+
+    DCT = dct_matrix(num_coefficients, num_filters)
+
+    # Compute the cepstral coefficients
+    CC = np.dot(DCT, np.log(FBE + 1e-6))
+
+    return CC
+
+
 def extract_features(path, start, end, sr=None, freq_range=(0, np.inf)):
     """
     Extract spectral features from an audio file within a specified frequency range.

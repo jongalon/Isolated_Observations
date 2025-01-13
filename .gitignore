@@ -30,3 +30,6 @@ data/*.csv
 
 # Ignorar archivos de salida de Jupyter
 *.ipynb_out
+
+# Ignorar la carpeta de backup
+Files_backup/
