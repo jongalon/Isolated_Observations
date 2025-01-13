@@ -1,4 +1,4 @@
-# Isolated Observations
+# Project description
 
 Welcome to the Isolated Observations project! This repository provides tools and methods to help researchers and bioacoustics experts efficiently identify and review audio segments in passive acoustic monitoring (PAM) datasets that may have been mislabeled or misclassified. By improving the quality of labels, we can enhance the performance of species detection and classification models in bioacoustic studies.
 
@@ -72,4 +72,3 @@ If you would like to contribute, please follow these steps:
 
 Contributions are always welcome, and we appreciate any help in improving the project!
 
-## Author
